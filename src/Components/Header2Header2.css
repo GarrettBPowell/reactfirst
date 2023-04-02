@@ -1,0 +1,40 @@
+
+.Header2Header2_Header2Header2 {
+	width: 430px;
+	height: 80px;
+	display: flex;
+	padding-top: 24px;
+	padding-right: 24px;
+	padding-bottom: 24px;
+	padding-left: 24px;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+	background: rgba(67,203,203,1.00);
+}
+.Header2Header2_Header2Header2 .directionarrowright {
+	position: relative;
+	flex: none;
+	width: 32px;
+	height: 32px;
+}
+.Header2Header2_Header2Header2 .directionarrowright .Vector {
+	position: absolute;
+	left: 3.143798828125px;
+	top: 6.5733642578125px;
+	width: 79.75883483886719%;
+	height: 58.925533294677734%;
+}
+.Header2Header2_Header2Header2 .generalmenu {
+	position: relative;
+	flex: none;
+	width: 32px;
+	height: 32px;
+}
+.Header2Header2_Header2Header2 .generalmenu .Vector_1 {
+	position: absolute;
+	left: 3.3333740234375px;
+	top: 5.333343505859375px;
+	width: 79.16679382324219%;
+	height: 66.66669845581055%;
+}

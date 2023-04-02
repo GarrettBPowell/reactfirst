@@ -1,0 +1,246 @@
+
+.TaskOrientedButtons_TaskOrientedButtons {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(113,119,132,1.00);
+}
+.TaskOrientedButtons_TaskOrientedButtons .PrimaryButton {
+	width: 298px;
+	height: 78px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	align-items: center;
+}
+.TaskOrientedButtons_TaskOrientedButtons .PrimaryButton .Button {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 282px;
+	height: 62px;
+	display: flex;
+	padding-top: 7.5px;
+	padding-right: 16px;
+	padding-bottom: 7.5px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 30px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .PrimaryButton .Button .ButtonText {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	height: 47px;
+	align-self: stretch;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 37.7760009765625px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .SecondaryButton {
+	width: 298px;
+	height: 78px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .SecondaryButton .Button_1 {
+	position: absolute;
+	left: 8px;
+	top: 8px;
+	width: 282px;
+	height: 62px;
+	display: flex;
+	padding-top: 7.5px;
+	padding-right: 16px;
+	padding-bottom: 7.5px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(35,180,93,1.00);
+	border-radius: 30px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .SecondaryButton .Button_1 .ButtonText_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	height: 47px;
+	align-self: stretch;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 37.7760009765625px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .DestructiveButton {
+	width: 298px;
+	height: 78px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .DestructiveButton .PrimaryButton_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 298px;
+	height: 78px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	align-items: center;
+}
+.TaskOrientedButtons_TaskOrientedButtons .DestructiveButton .PrimaryButton_1 .Button_2 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 282px;
+	height: 62px;
+	display: flex;
+	padding-top: 7.5px;
+	padding-right: 16px;
+	padding-bottom: 7.5px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(212,80,80,1.00);
+	border-radius: 30px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .DestructiveButton .PrimaryButton_1 .Button_2 .ButtonText_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	height: 47px;
+	align-self: stretch;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 37.7760009765625px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .PrimaryButton_2 {
+	position: absolute;
+	left: 229.9px;
+	top: 19.8px;
+	width: 327.8px;
+	height: 85.80000000000001px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .PrimaryButton_2 .Button_3 {
+	width: 310.20000000000005px;
+	height: 68.2px;
+	border-radius: 33px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .PrimaryButton_2 .Button_3 .ButtonText_3 {
+	height: 51.7px;
+	align-self: stretch;
+	font-size: 26.400000000000002px;
+	font-weight: 400;
+	line-height: 41.553601074218754px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .DisabledButton1 {
+	position: absolute;
+	left: 641.3000000000001px;
+	top: 202.4px;
+	width: 354.20000000000005px;
+	height: 361.90000000000003px;
+	border-radius: 5.5px;
+	border: 1px solid rgba(151.00000619888306,71.00000336766243,255,1);
+	box-sizing: border-box;
+}
+.TaskOrientedButtons_TaskOrientedButtons .DisabledButton1 .Property1Default {
+	width: 282px;
+	height: 62px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .DisabledButton1 .Property1Default .Button_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 282px;
+	height: 62px;
+	display: flex;
+	padding-top: 7.5px;
+	padding-right: 16px;
+	padding-bottom: 7.5px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(156,161,170,1.00);
+	border-radius: 30px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .DisabledButton1 .Property1Default .Button_4 .ButtonText_4 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	height: 47px;
+	align-self: stretch;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 25.19999885559082px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .DisabledButton1 .Property1DisabledButton2 {
+	width: 282px;
+	height: 62px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .DisabledButton1 .Property1DisabledButton2 .Button_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 282px;
+	height: 62px;
+	display: flex;
+	padding-top: 7.5px;
+	padding-right: 16px;
+	padding-bottom: 7.5px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(200,203,208,1.00);
+	border-radius: 30px;
+}
+.TaskOrientedButtons_TaskOrientedButtons .DisabledButton1 .Property1DisabledButton2 .Button_5 .ButtonText_5 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	height: 47px;
+	align-self: stretch;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 25.19999885559082px;
+}

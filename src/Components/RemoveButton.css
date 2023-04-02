@@ -1,0 +1,57 @@
+
+.RemoveButton_RemoveButton {
+	width: 30px;
+	height: 30px;
+}
+.RemoveButton_RemoveButton .Group3770 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30px;
+	height: 30px;
+}
+.RemoveButton_RemoveButton .Group3770 .Group3768 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30px;
+	height: 30px;
+}
+.RemoveButton_RemoveButton .Group3770 .Group3768 .Ellipse3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30px;
+	height: 30px;
+	background: rgba(235,87,87,1.00);
+	border-radius: 50%;
+}
+.RemoveButton_RemoveButton .Group3770 .Group3768 .tipsclose {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.RemoveButton_RemoveButton .Group3770 .Group3768 .tipsclose .Vector {
+	visibility: hidden;
+	position: absolute;
+	left: 3.6711578369140625px;
+	top: 3.671142578125px;
+	width: 64.81814831820827%;
+	height: 64.81811854026894%;
+}
+.RemoveButton_RemoveButton .Group3770 .tipsclose_1 {
+	position: absolute;
+	left: 4.347900390625px;
+	top: 3.9130859375px;
+	width: 21.304351806640625px;
+	height: 21.3043212890625px;
+}
+.RemoveButton_RemoveButton .Group3770 .tipsclose_1 .Vector_1 {
+	position: absolute;
+	left: 3.7476348876953125px;
+	top: 3.7476806640625px;
+	width: 64.81812803591458%;
+	height: 64.81822088525999%;
+}

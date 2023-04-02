@@ -1,0 +1,497 @@
+
+.NavigationTools_NavigationTools {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(113,119,132,1.00);
+}
+.NavigationTools_NavigationTools .SearchBar {
+	width: 384px;
+	height: 69px;
+}
+.NavigationTools_NavigationTools .SearchBar .Button {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 10px;
+	padding-right: 8px;
+	padding-bottom: 10px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(177,233,233,1.00);
+	border-radius: 60px;
+}
+.NavigationTools_NavigationTools .SearchBar .Button .interactivebuttonsearch {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.NavigationTools_NavigationTools .SearchBar .Button .interactivebuttonsearch .Vector {
+	position: absolute;
+	left: 3.757080078125px;
+	top: 3.7574462890625px;
+	width: 81.69403076171875%;
+	height: 81.69415791829428%;
+}
+.NavigationTools_NavigationTools .SearchBar .Button .Search {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 300px;
+	height: 36px;
+	display: flex;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 39.349998474121094px;
+}
+.NavigationTools_NavigationTools .NavigationBar {
+	width: 430px;
+	height: 130px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer {
+	position: absolute;
+	left: 0px;
+	top: 12px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu {
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .Rectangle969 {
+	border: 1px solid rgba(190.18750101327896,187.0177111029625,187.0177111029625,1);
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 {
+	height: 88.87088721185603%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Home {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 85.60009765625px;
+	height: 55px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .interactivebuttonhome {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 20px;
+	height: 20px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .interactivebuttonhome .Vector_1 {
+	position: absolute;
+	left: 2.083251953125px;
+	top: 1.949859619140625px;
+	width: 79.166259765625%;
+	height: 79.83413696289062%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .label {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 32px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(134,144,156,1.00);
+	font-family: Baloo;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18.88800048828125px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .badgewrapper {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 0px;
+	height: 0px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .badgewrapper .badge {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .badgewrapper .badge .placeholder {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile {
+	width: 85.5999755859375px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Group2 {
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Group2 .generaluser {
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Group2 .generaluser .Vector_2 {
+	width: 79.1668701171875%;
+	height: 79.16671752929688%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Profile_1 {
+	font-weight: 400;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 {
+	visibility: hidden;
+	width: 0.0001220703125px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 .badge_1 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 .badge_1 .placeholder_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 85.5999755859375px;
+	height: 55px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .interactivebuttonsearch_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 20px;
+	height: 20px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .interactivebuttonsearch_1 .Vector_3 {
+	position: absolute;
+	left: 1.5654296875px;
+	top: 1.56561279296875px;
+	width: 81.6943359375%;
+	height: 81.69418334960938%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .label_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 38px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(134,144,156,1.00);
+	font-family: Baloo;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18.88800048828125px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 0.0001220703125px;
+	height: 0px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 .badge_2 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 .badge_2 .placeholder_2 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends {
+	width: 85.5999755859375px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 {
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 17.218505859375px;
+	height: 16.79998779296875px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_1 .Vector_4 {
+	position: absolute;
+	left: 1.7935791015625px;
+	top: 1.75px;
+	width: 79.16684390375318%;
+	height: 79.1666515289681%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_2 {
+	position: absolute;
+	left: 8.78125px;
+	top: 4.20001220703125px;
+	width: 17.218505859375px;
+	height: 16.79998779296875px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_2 .Vector_5 {
+	position: absolute;
+	left: 1.7935791015625px;
+	top: 1.75px;
+	width: 79.16684390375318%;
+	height: 79.1666515289681%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .label_2 {
+	font-weight: 400;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 {
+	visibility: hidden;
+	width: 0.0001220703125px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 .badge_3 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 .badge_3 .placeholder_3 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Add {
+	width: 85.5999755859375px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .Button_1 {
+	border: 1px solid rgba(22.000000588595867,93.00000205636024,255,1);
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .Button_1 .tipsplus {
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .Button_1 .tipsplus .Vector_6 {
+	width: 79.16690602022058%;
+	height: 79.16672650505515%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 {
+	visibility: hidden;
+	width: 0.0001220703125px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 .badge_4 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 .badge_4 .placeholder_4 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.NavigationTools_NavigationTools .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .label_3 {
+	font-weight: 400;
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton {
+	position: absolute;
+	left: 164px;
+	top: 18px;
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton .Group1 {
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton .Group1 .Ellipse2 {
+	border-radius: 50%;
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton .Group1 .Ellipse1 {
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton .Group1 .SPIN {
+	height: 31.000004811455113%;
+	font-weight: 400;
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton .Group12 {
+	height: 123.09646606445312%;
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton .Group12 .Purple {
+	height: 82.07349468530168%;
+	border-radius: 50%;
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton .Group12 .Purple_1 {
+	border-radius: 50%;
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton .Group12 .Yellow {
+	height: 73.89943289224952%;
+	border-radius: 50%;
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton .Group12 .LightBlue {
+	height: 82.07349468530168%;
+	border-radius: 50%;
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton .Group12 .Orange {
+	border-radius: 50%;
+}
+.NavigationTools_NavigationTools .NavigationBar .SpinButton .Group12 .Red {
+	height: 73.90196163500573%;
+	border-radius: 50%;
+}
+.NavigationTools_NavigationTools .MenuBar {
+	width: 425px;
+	height: 41.45513916015625px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 425px;
+	height: 41.45513916015625px;
+	border-radius: 10px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 425px;
+	height: 41.45513916015625px;
+	border-radius: 10px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 425px;
+	height: 41.45513916015625px;
+	border-radius: 10px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2612 {
+	position: absolute;
+	left: 107px;
+	top: 0px;
+	width: 103px;
+	height: 41.40045166015625px;
+	border-radius: 10px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2612 .Rectangle971 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 103px;
+	height: 41.40045166015625px;
+	background: rgba(49,131,140,1.00);
+	border-radius: 10px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2612 .Salads {
+	position: absolute;
+	left: 6px;
+	top: 11px;
+	width: 88.3495145631068%;
+	height: 45.89321912708885%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2613 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 105px;
+	height: 41px;
+	border-radius: 10px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2613 .Rectangle971_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 105px;
+	height: 41px;
+	background: rgba(137,223,223,1.00);
+	border-radius: 10px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2613 .Entres {
+	position: absolute;
+	left: 20px;
+	top: 11px;
+	width: 62.857142857142854%;
+	height: 46.34146341463415%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2615 {
+	position: absolute;
+	left: 320px;
+	top: 0.45513916015625px;
+	width: 105px;
+	height: 41px;
+	border-radius: 10px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2615 .Rectangle971_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 105px;
+	height: 41px;
+	background: rgba(137,223,223,1.00);
+	border-radius: 10px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2615 .Sides {
+	position: absolute;
+	left: 13px;
+	top: 10.54486083984375px;
+	width: 75.23809523809524%;
+	height: 46.34146341463415%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2614 {
+	position: absolute;
+	left: 212px;
+	top: 0.45513916015625px;
+	width: 106px;
+	height: 41px;
+	border-radius: 10px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2614 .Rectangle971_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 106px;
+	height: 41px;
+	background: rgba(137,223,223,1.00);
+	border-radius: 10px;
+}
+.NavigationTools_NavigationTools .MenuBar .Group2758 .Group2751 .Group2722 .Group2614 .Breakfast {
+	position: absolute;
+	left: 17px;
+	top: 11.54486083984375px;
+	width: 66.98113207547169%;
+	height: 46.34146341463415%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}

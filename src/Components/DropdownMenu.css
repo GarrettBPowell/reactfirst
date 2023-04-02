@@ -1,0 +1,17 @@
+
+.DropdownMenu_DropdownMenu {
+	width: 31px;
+	height: 31px;
+}
+.DropdownMenu_DropdownMenu .directiondown {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.DropdownMenu_DropdownMenu .directiondown .Vector {
+	position: absolute;
+	left: 4.5679931640625px;
+	top: 1.21875px;
+	width: 70.71060672883065%;
+	height: 70.71100050403226%;
+}

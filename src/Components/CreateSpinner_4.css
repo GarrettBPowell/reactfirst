@@ -1,0 +1,457 @@
+
+.CreateSpinner_4_CreateSpinner {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+}
+.CreateSpinner_4_CreateSpinner .CreateSpinner_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.5px;
+	height: 3122.2000000000003px;
+}
+.CreateSpinner_4_CreateSpinner .CreateSpinner_1 .Header {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.5px;
+	height: 268px;
+}
+.CreateSpinner_4_CreateSpinner .CreateSpinner_1 .Header .directionarrowright {
+	position: relative;
+	flex: none;
+	width: 107.2px;
+	height: 107.2px;
+}
+.CreateSpinner_4_CreateSpinner .CreateSpinner_1 .Header .directionarrowright .Vector {
+	position: absolute;
+	left: 10.531726074218751px;
+	top: 22.0219970703125px;
+	width: 79.75921630859375%;
+	height: 58.92486572265625%;
+}
+.CreateSpinner_4_CreateSpinner .CreateSpinner_1 .Header .generalmenu {
+	position: relative;
+	flex: none;
+	width: 107.2px;
+	height: 107.2px;
+}
+.CreateSpinner_4_CreateSpinner .CreateSpinner_1 .Header .generalmenu .Vector_1 {
+	position: absolute;
+	left: 11.16639404296875px;
+	top: 17.8672119140625px;
+	width: 79.16641235351562%;
+	height: 66.66717529296875%;
+}
+.CreateSpinner_4_CreateSpinner .Frame3771 {
+	position: absolute;
+	left: 221.1px;
+	top: 1286.4px;
+	width: 998.3000000000001px;
+	height: 549.4px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.CreateSpinner_4_CreateSpinner .Frame3771 .SecondaryButton {
+	position: relative;
+	flex: none;
+	margin-bottom: 26.8px;
+	width: 998.3000000000001px;
+	height: 261.3px;
+}
+.CreateSpinner_4_CreateSpinner .Frame3771 .SecondaryButton .Button {
+	width: 944.7px;
+	height: 207.70000000000002px;
+	background: rgba(255,218,126,1.00);
+	border-radius: 100.5px;
+}
+.CreateSpinner_4_CreateSpinner .Frame3771 .SecondaryButton .Button .ButtonText {
+	height: 157.45000000000002px;
+	align-self: stretch;
+	font-size: 80.4px;
+	font-weight: 400;
+	line-height: 126.54960327148437px;
+}
+.CreateSpinner_4_CreateSpinner .Frame3771 .SecondaryButton_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 26.8px;
+	width: 998.3000000000001px;
+	height: 261.3px;
+}
+.CreateSpinner_4_CreateSpinner .Frame3771 .SecondaryButton_1 .Button_1 {
+	width: 944.7px;
+	height: 207.70000000000002px;
+	background: rgba(255,218,126,1.00);
+	border-radius: 100.5px;
+}
+.CreateSpinner_4_CreateSpinner .Frame3771 .SecondaryButton_1 .Button_1 .ButtonText_1 {
+	height: 157.45000000000002px;
+	align-self: stretch;
+	font-size: 80.4px;
+	font-weight: 400;
+	line-height: 126.54960327148437px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar {
+	position: absolute;
+	left: 0px;
+	top: 2723.55px;
+	width: 1440.5px;
+	height: 435.5px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer {
+	position: absolute;
+	left: 0px;
+	top: 40.2px;
+	width: 100%;
+	height: 82.3076923076923%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu {
+	width: 100%;
+	height: 67.63471086448598%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .Rectangle969 {
+	width: 100%;
+	height: 100%;
+	border: 1px solid rgba(190.18750101327896,187.0177111029625,187.0177111029625,1);
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 {
+	width: 99.53488372093024%;
+	height: 88.87067174047985%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Home {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 286.7603271484375px;
+	height: 184.25px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .interactivebuttonhome {
+	position: relative;
+	flex: none;
+	margin-bottom: 13.4px;
+	width: 67px;
+	height: 67px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .interactivebuttonhome .Vector_2 {
+	position: absolute;
+	left: 6.97889404296875px;
+	top: 6.5315185546875005px;
+	width: 79.166259765625%;
+	height: 79.833984375%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .label {
+	position: relative;
+	flex: none;
+	margin-bottom: 13.4px;
+	width: 107.2px;
+	height: 63.65px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(134,144,156,1.00);
+	font-family: Baloo;
+	font-size: 40.2px;
+	font-weight: 400;
+	line-height: 63.274801635742186px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .badgewrapper {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 13.4px;
+	width: 0px;
+	height: 0px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .badgewrapper .badge {
+	position: absolute;
+	left: 0px;
+	top: -13.4px;
+	width: 26.8px;
+	height: 26.8px;
+	border-radius: 335px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .badgewrapper .badge .placeholder {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile {
+	width: 286.7603271484375px;
+	height: 184.25px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Group2 {
+	width: 67px;
+	height: 67px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Group2 .generaluser {
+	width: 67px;
+	height: 67px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Group2 .generaluser .Vector_3 {
+	width: 79.166259765625%;
+	height: 79.16748046875%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Profile_1 {
+	width: 123.95px;
+	height: 63.65px;
+	font-size: 40.2px;
+	font-weight: 400;
+	line-height: 63.274801635742186px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 {
+	visibility: hidden;
+	width: 0px;
+	height: 0px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 .badge_1 {
+	position: absolute;
+	left: 0px;
+	top: -13.4px;
+	width: 26.8px;
+	height: 26.8px;
+	border-radius: 335px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 .badge_1 .placeholder_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 286.7603271484375px;
+	height: 184.25px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .interactivebuttonsearch {
+	position: relative;
+	flex: none;
+	margin-bottom: 13.4px;
+	width: 67px;
+	height: 67px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .interactivebuttonsearch .Vector_4 {
+	position: absolute;
+	left: 5.244189453125px;
+	top: 5.244189453125px;
+	width: 81.6943359375%;
+	height: 81.6943359375%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .label_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 13.4px;
+	width: 127.3px;
+	height: 63.65px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(134,144,156,1.00);
+	font-family: Baloo;
+	font-size: 40.2px;
+	font-weight: 400;
+	line-height: 63.274801635742186px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 13.4px;
+	width: 0px;
+	height: 0px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 .badge_2 {
+	position: absolute;
+	left: 0px;
+	top: -13.4px;
+	width: 26.8px;
+	height: 26.8px;
+	border-radius: 335px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 .badge_2 .placeholder_2 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends {
+	width: 286.7603271484375px;
+	height: 187.6px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 {
+	width: 87.10000000000001px;
+	height: 70.35000000000001px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 57.68199462890625px;
+	height: 56.279345703125px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_1 .Vector_5 {
+	position: absolute;
+	left: 6.00889892578125px;
+	top: 5.8625px;
+	width: 79.16684390375318%;
+	height: 79.16642446084985%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_2 {
+	position: absolute;
+	left: 29.4171875px;
+	top: 14.070654296875px;
+	width: 57.68199462890625px;
+	height: 56.279345703125px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_2 .Vector_6 {
+	position: absolute;
+	left: 6.00889892578125px;
+	top: 5.8625px;
+	width: 79.16684390375318%;
+	height: 79.16642446084985%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .label_2 {
+	width: 137.35px;
+	height: 63.65px;
+	font-size: 40.2px;
+	font-weight: 400;
+	line-height: 63.274801635742186px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 {
+	visibility: hidden;
+	width: 0px;
+	height: 0px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 .badge_3 {
+	position: absolute;
+	left: 0px;
+	top: -13.4px;
+	width: 26.8px;
+	height: 26.8px;
+	border-radius: 335px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 .badge_3 .placeholder_3 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Add {
+	width: 286.7603271484375px;
+	height: 184.25px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .Button_2 {
+	width: 93.8px;
+	height: 93.8px;
+	border-radius: 335px;
+	border: 1px solid rgba(22.000000588595867,93.00000205636024,255,1);
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .Button_2 .tipsplus {
+	width: 56.95px;
+	height: 56.95px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .Button_2 .tipsplus .Vector_7 {
+	width: 79.16618795955883%;
+	height: 79.16762408088235%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 {
+	visibility: hidden;
+	width: 0px;
+	height: 0px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 .badge_4 {
+	position: absolute;
+	left: 0px;
+	top: -13.4px;
+	width: 26.8px;
+	height: 26.8px;
+	border-radius: 335px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 .badge_4 .placeholder_4 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .label_3 {
+	width: 201px;
+	height: 60.300000000000004px;
+	font-size: 40.2px;
+	font-weight: 400;
+	line-height: 63.274801635742186px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton {
+	position: absolute;
+	left: 549.4px;
+	top: 60.300000000000004px;
+	width: 23.25581395348837%;
+	height: 76.92307692307693%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton .Group1 {
+	width: 76.923095703125%;
+	height: 76.1123046875%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton .Group1 .Ellipse2 {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton .Group1 .Ellipse1 {
+	width: 49.99984130863249%;
+	height: 50%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton .Group1 .SPIN {
+	width: 40.000063476547005%;
+	height: 30.999884525077302%;
+	font-size: 40.2px;
+	font-weight: 400;
+	line-height: 63.274801635742186px;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton .Group12 {
+	width: 122.82373046874999%;
+	height: 123.09619140625001%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton .Group12 .Purple {
+	width: 82.66320271285625%;
+	height: 82.07385135322748%;
+	border-radius: 50%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton .Group12 .Purple_1 {
+	width: 68.12791451163419%;
+	height: 68.68794649763389%;
+	border-radius: 50%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton .Group12 .Yellow {
+	width: 73.9966924144182%;
+	height: 73.89974653016053%;
+	border-radius: 50%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton .Group12 .LightBlue {
+	width: 82.66320271285625%;
+	height: 82.07385135322748%;
+	border-radius: 50%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton .Group12 .Orange {
+	width: 68.12791451163419%;
+	height: 68.68794649763389%;
+	border-radius: 50%;
+}
+.CreateSpinner_4_CreateSpinner .NavigationBar .SpinButton .Group12 .Red {
+	width: 73.99927646565399%;
+	height: 73.9021265286532%;
+	border-radius: 50%;
+}

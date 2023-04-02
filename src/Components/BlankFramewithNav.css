@@ -1,0 +1,306 @@
+
+.BlankFramewithNav_BlankFramewithNav {
+	width: 430px;
+	height: 932px;
+	background: rgba(113,119,132,1.00);
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar {
+	position: absolute;
+	left: 0px;
+	top: 813px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer {
+	position: absolute;
+	left: 0px;
+	top: 12px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu {
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .Rectangle969 {
+	border: 1px solid rgba(190.18750101327896,187.0177111029625,187.0177111029625,1);
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 {
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Home {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 85.5999755859375px;
+	height: 55px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .interactivebuttonhome {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 20px;
+	height: 20px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .interactivebuttonhome .Vector {
+	position: absolute;
+	left: 2.0833740234375px;
+	top: 1.949951171875px;
+	width: 79.1668701171875%;
+	height: 79.833984375%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .label {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 32px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(134,144,156,1.00);
+	font-family: Baloo;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18.88800048828125px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .badgewrapper {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 0.0001220703125px;
+	height: 0px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .badgewrapper .badge {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Home .badgewrapper .badge .placeholder {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile {
+	width: 85.5999755859375px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Group2 {
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Group2 .generaluser {
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Group2 .generaluser .Vector_1 {
+	width: 79.1668701171875%;
+	height: 79.166259765625%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .Profile_1 {
+	font-weight: 400;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 {
+	visibility: hidden;
+	width: 0.0001220703125px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 .badge_1 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 .badge_1 .placeholder_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 85.5999755859375px;
+	height: 55px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .interactivebuttonsearch {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 20px;
+	height: 20px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .interactivebuttonsearch .Vector_2 {
+	position: absolute;
+	left: 1.5654296875px;
+	top: 1.565673828125px;
+	width: 81.6943359375%;
+	height: 81.6943359375%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .label_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 38px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(134,144,156,1.00);
+	font-family: Baloo;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18.88800048828125px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 0.0001220703125px;
+	height: 0px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 .badge_2 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 .badge_2 .placeholder_2 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends {
+	width: 85.5999755859375px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 {
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 17.218505859375px;
+	height: 16.800048828125px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_1 .Vector_3 {
+	position: absolute;
+	left: 1.7935791015625px;
+	top: 1.75px;
+	width: 79.16684390375318%;
+	height: 79.16672721724093%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_2 {
+	position: absolute;
+	left: 8.78125px;
+	top: 4.199951171875px;
+	width: 17.218505859375px;
+	height: 16.800048828125px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_2 .Vector_4 {
+	position: absolute;
+	left: 1.7935791015625px;
+	top: 1.75px;
+	width: 79.16684390375318%;
+	height: 79.16672721724093%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .label_2 {
+	font-weight: 400;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 {
+	visibility: hidden;
+	width: 0.0001220703125px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 .badge_3 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 .badge_3 .placeholder_3 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Add {
+	width: 85.5999755859375px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .Button {
+	border: 1px solid rgba(22.000000588595867,93.00000205636024,255,1);
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .Button .tipsplus {
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .Button .tipsplus .Vector_5 {
+	width: 79.16690602022058%;
+	height: 79.16618795955883%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 {
+	visibility: hidden;
+	width: 0.0001220703125px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 .badge_4 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 .badge_4 .placeholder_4 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .Footer .NavMenu .NavMenu_1 .Add .label_3 {
+	font-weight: 400;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton {
+	position: absolute;
+	left: 164px;
+	top: 18px;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton .Group1 {
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton .Group1 .Ellipse2 {
+	border-radius: 50%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton .Group1 .Ellipse1 {
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton .Group1 .SPIN {
+	height: 30.999884525077302%;
+	font-weight: 400;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton .Group12 {
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton .Group12 .Purple {
+	border-radius: 50%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton .Group12 .Purple_1 {
+	height: 68.68741360126775%;
+	border-radius: 50%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton .Group12 .Yellow {
+	border-radius: 50%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton .Group12 .LightBlue {
+	border-radius: 50%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton .Group12 .Orange {
+	height: 68.68741360126775%;
+	border-radius: 50%;
+}
+.BlankFramewithNav_BlankFramewithNav .NavigationBar .SpinButton .Group12 .Red {
+	height: 73.90197995648579%;
+	border-radius: 50%;
+}
+.BlankFramewithNav_BlankFramewithNav .Header {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.BlankFramewithNav_BlankFramewithNav .Header .generalmenu {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 32px;
+	height: 32px;
+}
+.BlankFramewithNav_BlankFramewithNav .Header .generalmenu .Vector_6 {
+	position: absolute;
+	left: 3.3333740234375px;
+	top: 5.3333740234375px;
+	width: 79.16679382324219%;
+	height: 66.66679382324219%;
+}

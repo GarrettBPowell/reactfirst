@@ -1,0 +1,376 @@
+
+.RemoveMenu_RemoveMenu {
+	width: 335px;
+	height: 144px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 12px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 311px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem .RemoveText {
+	font-weight: 400;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .Group3768 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .Group3768 .Ellipse3 {
+	border-radius: 50%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .Group3768 .tipsclose {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .Group3768 .tipsclose .Vector {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .tipsclose_1 {
+	width: 21.3043212890625px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .tipsclose_1 .Vector_1 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem_1 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveText_1 {
+	font-weight: 400;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .Group3768_1 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .Group3768_1 .Ellipse3_1 {
+	border-radius: 50%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .Group3768_1 .tipsclose_2 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .Group3768_1 .tipsclose_2 .Vector_2 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .tipsclose_3 {
+	width: 21.3043212890625px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .tipsclose_3 .Vector_3 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 311px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveText_2 {
+	font-weight: 400;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .Group3768_2 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .Group3768_2 .Ellipse3_2 {
+	border-radius: 50%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .Group3768_2 .tipsclose_4 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .Group3768_2 .tipsclose_4 .Vector_4 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .tipsclose_5 {
+	width: 21.3043212890625px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .tipsclose_5 .Vector_5 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveText_3 {
+	font-weight: 400;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .Group3768_3 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .Group3768_3 .Ellipse3_3 {
+	border-radius: 50%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .Group3768_3 .tipsclose_6 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .Group3768_3 .tipsclose_6 .Vector_6 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .tipsclose_7 {
+	width: 21.3043212890625px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .tipsclose_7 .Vector_7 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 311px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveText_4 {
+	font-weight: 400;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .Group3768_4 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .Group3768_4 .Ellipse3_4 {
+	border-radius: 50%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .Group3768_4 .tipsclose_8 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .Group3768_4 .tipsclose_8 .Vector_8 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .tipsclose_9 {
+	width: 21.3043212890625px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .tipsclose_9 .Vector_9 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveText_5 {
+	font-weight: 400;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .Group3768_5 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .Group3768_5 .Ellipse3_5 {
+	border-radius: 50%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .Group3768_5 .tipsclose_10 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .Group3768_5 .tipsclose_10 .Vector_10 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .tipsclose_11 {
+	width: 21.3043212890625px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .tipsclose_11 .Vector_11 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 311px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveText_6 {
+	font-weight: 400;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .Group3768_6 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .Group3768_6 .Ellipse3_6 {
+	border-radius: 50%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .Group3768_6 .tipsclose_12 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .Group3768_6 .tipsclose_12 .Vector_12 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .tipsclose_13 {
+	width: 21.3043212890625px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .tipsclose_13 .Vector_13 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveText_7 {
+	font-weight: 400;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .Group3768_7 {
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .Group3768_7 .Ellipse3_7 {
+	border-radius: 50%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .Group3768_7 .tipsclose_14 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .Group3768_7 .tipsclose_14 .Vector_14 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .tipsclose_15 {
+	width: 21.3043212890625px;
+}
+.RemoveMenu_RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .tipsclose_15 .Vector_15 {
+}

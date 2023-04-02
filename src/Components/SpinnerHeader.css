@@ -1,0 +1,51 @@
+
+.SpinnerHeader_SpinnerHeader {
+	width: 337px;
+	height: 76px;
+	display: flex;
+	padding-right: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.SpinnerHeader_SpinnerHeader .StatusIconsVariant6 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.SpinnerHeader_SpinnerHeader .StatusIconsVariant6 .Available {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(35,180,93,1.00);
+	border-radius: 50%;
+}
+.SpinnerHeader_SpinnerHeader .SpinnerTitle {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.SpinnerHeader_SpinnerHeader .SpinnerTitle .WorkBuds {
+	width: 150px;
+	font-weight: 400;
+}
+.SpinnerHeader_SpinnerHeader .DropdownMenu {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.SpinnerHeader_SpinnerHeader .DropdownMenu .directiondown {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.SpinnerHeader_SpinnerHeader .DropdownMenu .directiondown .Vector {
+	position: absolute;
+	left: 4.5679931640625px;
+	top: 1.21875px;
+	width: 70.71060672883065%;
+	height: 70.71100050403226%;
+}

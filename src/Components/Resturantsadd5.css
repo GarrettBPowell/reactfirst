@@ -1,0 +1,1319 @@
+
+.Resturantsadd5_Resturantsadd5 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.5px;
+	height: 3122.2000000000003px;
+	background: rgba(113,119,132,1.00);
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.5px;
+	height: 2726.9px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Header {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 1440.5px;
+	height: 268px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Header .generalmenu {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 33.5px;
+	width: 107.2px;
+	height: 107.2px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Header .generalmenu .Vector {
+	position: absolute;
+	left: 11.1672119140625px;
+	top: 17.866700744628908px;
+	width: 79.16717529296875%;
+	height: 66.66669845581055%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .AddRestaurants {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 1440.5px;
+	height: 505.85px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Baloo;
+	font-size: 160.8px;
+	font-weight: 400;
+	line-height: 253.09920654296874px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 1286.4px;
+	height: 1872.65px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SearchBar {
+	position: relative;
+	flex: none;
+	margin-bottom: 107.2px;
+	width: 1286.4px;
+	height: 231.15px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SearchBar .Button {
+	width: 100%;
+	height: 100%;
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SearchBar .Button .interactivebuttonsearch {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 160.8px;
+	height: 160.8px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SearchBar .Button .interactivebuttonsearch .Vector_1 {
+	position: absolute;
+	left: 12.585400390625px;
+	top: 12.587445068359376px;
+	width: 81.69453938802084%;
+	height: 81.69415791829428%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SearchBar .Button .Search {
+	width: 1005px;
+	height: 120.60000000000001px;
+	font-size: 83.75px;
+	font-weight: 400;
+	line-height: 131.82249488830567px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder {
+	position: relative;
+	flex: none;
+	margin-bottom: 107.2px;
+	width: 1139px;
+	height: 1165.8px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 1122.25px;
+	height: 355.1px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow {
+	width: 1041.8500000000001px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 448.90000000000003px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveText {
+	width: 234.5px;
+	height: 83.75px;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 84.41999616622925px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .Group3768 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .Group3768 .Ellipse3 {
+	width: 100.5px;
+	height: 100.5px;
+	border-radius: 50%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .Group3768 .tipsclose {
+	position: absolute;
+	left: 16.0220947265625px;
+	top: 14.565210723876953px;
+	width: 69.9132568359375px;
+	height: 69.91305236816406px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .Group3768 .tipsclose .Vector_2 {
+	visibility: hidden;
+	position: absolute;
+	left: 12.2991455078125px;
+	top: 12.29835319519043px;
+	width: 64.81832432558902%;
+	height: 64.81811176069746%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .tipsclose_1 {
+	width: 71.3690673828125px;
+	height: 71.3695785522461px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton .Group3770 .tipsclose_1 .Vector_3 {
+	width: 64.81859228530173%;
+	height: 64.81812803591458%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem_1 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 448.90000000000003px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveText_1 {
+	width: 281.40000000000003px;
+	height: 83.75px;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 84.41999616622925px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .Group3768_1 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .Group3768_1 .Ellipse3_1 {
+	width: 100.5px;
+	height: 100.5px;
+	border-radius: 50%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .Group3768_1 .tipsclose_2 {
+	position: absolute;
+	left: 16.0220947265625px;
+	top: 14.565210723876953px;
+	width: 69.9132568359375px;
+	height: 69.91305236816406px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .Group3768_1 .tipsclose_2 .Vector_4 {
+	visibility: hidden;
+	position: absolute;
+	left: 12.2991455078125px;
+	top: 12.29835319519043px;
+	width: 64.81832432558902%;
+	height: 64.81811176069746%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .tipsclose_3 {
+	width: 71.3690673828125px;
+	height: 71.3695785522461px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_1 .Group3770_1 .tipsclose_3 .Vector_5 {
+	width: 64.81859228530173%;
+	height: 64.81812803591458%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 {
+	width: 1041.8500000000001px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 448.90000000000003px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveText_2 {
+	width: 328.3px;
+	height: 83.75px;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 84.41999616622925px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .Group3768_2 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .Group3768_2 .Ellipse3_2 {
+	width: 100.5px;
+	height: 100.5px;
+	border-radius: 50%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .Group3768_2 .tipsclose_4 {
+	position: absolute;
+	left: 16.0220947265625px;
+	top: 14.565210723876953px;
+	width: 69.9132568359375px;
+	height: 69.91305236816406px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .Group3768_2 .tipsclose_4 .Vector_6 {
+	visibility: hidden;
+	position: absolute;
+	left: 12.2991455078125px;
+	top: 12.29835319519043px;
+	width: 64.81832432558902%;
+	height: 64.81811176069746%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .tipsclose_5 {
+	width: 71.3690673828125px;
+	height: 71.3695785522461px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_2 .Group3770_2 .tipsclose_5 .Vector_7 {
+	width: 64.81859228530173%;
+	height: 64.81812803591458%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 448.90000000000003px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveText_3 {
+	width: 281.40000000000003px;
+	height: 83.75px;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 84.41999616622925px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .Group3768_3 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .Group3768_3 .Ellipse3_3 {
+	width: 100.5px;
+	height: 100.5px;
+	border-radius: 50%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .Group3768_3 .tipsclose_6 {
+	position: absolute;
+	left: 16.0220947265625px;
+	top: 14.565210723876953px;
+	width: 69.9132568359375px;
+	height: 69.91305236816406px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .Group3768_3 .tipsclose_6 .Vector_8 {
+	visibility: hidden;
+	position: absolute;
+	left: 12.2991455078125px;
+	top: 12.29835319519043px;
+	width: 64.81832432558902%;
+	height: 64.81811176069746%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .tipsclose_7 {
+	width: 71.3690673828125px;
+	height: 71.3695785522461px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_3 .Group3770_3 .tipsclose_7 .Vector_9 {
+	width: 64.81859228530173%;
+	height: 64.81812803591458%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 {
+	width: 1041.8500000000001px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 448.90000000000003px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveText_4 {
+	width: 338.35px;
+	height: 83.75px;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 84.41999616622925px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .Group3768_4 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .Group3768_4 .Ellipse3_4 {
+	width: 100.5px;
+	height: 100.5px;
+	border-radius: 50%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .Group3768_4 .tipsclose_8 {
+	position: absolute;
+	left: 16.0220947265625px;
+	top: 14.565210723876953px;
+	width: 69.9132568359375px;
+	height: 69.91305236816406px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .Group3768_4 .tipsclose_8 .Vector_10 {
+	visibility: hidden;
+	position: absolute;
+	left: 12.2991455078125px;
+	top: 12.29836597442627px;
+	width: 64.81832432558902%;
+	height: 64.81811176069746%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .tipsclose_9 {
+	width: 71.3690673828125px;
+	height: 71.36956577301025px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_4 .Group3770_4 .tipsclose_9 .Vector_11 {
+	width: 64.81859228530173%;
+	height: 64.81812173634648%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 448.90000000000003px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveText_5 {
+	width: 214.4px;
+	height: 83.75px;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 84.41999616622925px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .Group3768_5 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .Group3768_5 .Ellipse3_5 {
+	width: 100.5px;
+	height: 100.5px;
+	border-radius: 50%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .Group3768_5 .tipsclose_10 {
+	position: absolute;
+	left: 16.0220947265625px;
+	top: 14.565210723876953px;
+	width: 69.9132568359375px;
+	height: 69.91305236816406px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .Group3768_5 .tipsclose_10 .Vector_12 {
+	visibility: hidden;
+	position: absolute;
+	left: 12.2991455078125px;
+	top: 12.29836597442627px;
+	width: 64.81832432558902%;
+	height: 64.81811176069746%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .tipsclose_11 {
+	width: 71.3690673828125px;
+	height: 71.36956577301025px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_5 .Group3770_5 .tipsclose_11 .Vector_13 {
+	width: 64.81859228530173%;
+	height: 64.81812173634648%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 {
+	visibility: hidden;
+	width: 1041.8500000000001px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 448.90000000000003px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveText_6 {
+	width: 214.4px;
+	height: 83.75px;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 84.41999616622925px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .Group3768_6 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .Group3768_6 .Ellipse3_6 {
+	width: 100.5px;
+	height: 100.5px;
+	border-radius: 50%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .Group3768_6 .tipsclose_12 {
+	position: absolute;
+	left: 16.0220947265625px;
+	top: 14.565217113494873px;
+	width: 69.9132568359375px;
+	height: 69.91304597854615px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .Group3768_6 .tipsclose_12 .Vector_14 {
+	visibility: hidden;
+	position: absolute;
+	left: 12.2991455078125px;
+	top: 12.29836277961731px;
+	width: 64.81832432558902%;
+	height: 64.81812225435932%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .tipsclose_13 {
+	width: 71.3690673828125px;
+	height: 71.36956577301025px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_6 .Group3770_6 .tipsclose_13 .Vector_15 {
+	width: 64.81859228530173%;
+	height: 64.81812173634648%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 448.90000000000003px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveText_7 {
+	width: 214.4px;
+	height: 83.75px;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 84.41999616622925px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .Group3768_7 {
+	width: 100.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .Group3768_7 .Ellipse3_7 {
+	width: 100.5px;
+	height: 100.5px;
+	border-radius: 50%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .Group3768_7 .tipsclose_14 {
+	position: absolute;
+	left: 16.0220947265625px;
+	top: 14.565217113494873px;
+	width: 69.9132568359375px;
+	height: 69.91304597854615px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .Group3768_7 .tipsclose_14 .Vector_16 {
+	visibility: hidden;
+	position: absolute;
+	left: 12.2991455078125px;
+	top: 12.29836277961731px;
+	width: 64.81832432558902%;
+	height: 64.81812225435932%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .tipsclose_15 {
+	width: 71.3690673828125px;
+	height: 71.36956577301025px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_7 .Group3770_7 .tipsclose_15 .Vector_17 {
+	width: 64.81859228530173%;
+	height: 64.81812173634648%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .Line1 {
+	width: 1055.33505859375px;
+	height: 0px;
+	border: 5px solid rgba(36.00000165402889,46.000001057982445,66.00000366568565,1);
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 1139px;
+	height: 730.3000000000001px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .MenuTitle {
+	width: 1005px;
+	height: 93.8px;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 94.91220245361329px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 {
+	width: 1058.6000000000001px;
+	height: 609.7px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_1 {
+	width: 1058.6000000000001px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_1 .AddItem {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton .Button_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton .Button_1 .Vector_18 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton .Button_1 .ButtonText {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_1 .AddItem_1 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 .Button_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 .Button_2 .Vector_19 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 .Button_2 .ButtonText_1 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3773 {
+	width: 1058.6000000000001px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3773 .AddItem_2 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 .Button_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 .Button_3 .Vector_20 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 .Button_3 .ButtonText_2 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3773 .AddItem_3 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 .Button_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 .Button_4 .Vector_21 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 .Button_4 .ButtonText_3 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3774 {
+	width: 1058.6000000000001px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3774 .AddItem_4 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 .Button_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 .Button_5 .Vector_22 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 .Button_5 .ButtonText_4 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3774 .AddItem_5 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 .Button_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 .Button_6 .Vector_23 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 .Button_6 .ButtonText_5 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_2 {
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_2 .AddItem_6 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 .Button_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 .Button_7 .Vector_24 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 .Button_7 .ButtonText_6 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_2 .AddItem_7 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 .Button_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 .Button_8 .Vector_25 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 .Button_8 .ButtonText_7 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3775 {
+	visibility: hidden;
+	width: 1058.6000000000001px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3775 .AddItem_8 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 .Button_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 .Button_9 .Vector_26 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 .Button_9 .ButtonText_8 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3775 .AddItem_9 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 .Button_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 .Button_10 .Vector_27 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 .Button_10 .ButtonText_9 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3776 {
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3776 .AddItem_10 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 .Button_11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 .Button_11 .Vector_28 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 .Button_11 .ButtonText_10 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3776 .AddItem_11 {
+	position: relative;
+	flex: none;
+	margin-right: 53.6px;
+	width: 502.5px;
+	height: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 .Button_12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 26.8px;
+	padding-right: 26.8px;
+	padding-bottom: 26.8px;
+	padding-left: 26.8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 201px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 .Button_12 .Vector_29 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 50.25px;
+	height: 50.25px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SectionAdder .AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 .Button_12 .ButtonText_11 {
+	position: relative;
+	flex: none;
+	margin-right: 26.8px;
+	width: 361.8px;
+	height: 73.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 53.6px;
+	font-weight: 400;
+	line-height: 75.03999872207642px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SecondaryButton {
+	position: relative;
+	flex: none;
+	margin-bottom: 107.2px;
+	width: 998.3000000000001px;
+	height: 261.3px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SecondaryButton .Button_13 {
+	width: 944.7px;
+	height: 207.70000000000002px;
+	border-radius: 100.5px;
+}
+.Resturantsadd5_Resturantsadd5 .BlankFrame .Frame3771 .Frame3771_1 .SecondaryButton .Button_13 .ButtonText_12 {
+	height: 157.45000000000002px;
+	align-self: stretch;
+	font-size: 80.4px;
+	font-weight: 400;
+	line-height: 126.54960327148437px;
+}

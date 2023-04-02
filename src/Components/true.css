@@ -1,0 +1,17 @@
+
+.true_true {
+	width: 36px;
+	height: 36px;
+	display: flex;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(148,191,255,1.00);
+	border-radius: 100px;
+	border: 1px solid rgba(148.000006377697,191.00000381469727,255,1);
+	box-sizing: border-box;
+}

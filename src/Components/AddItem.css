@@ -1,0 +1,51 @@
+
+.AddItem_AddItem {
+	width: 150px;
+	height: 30px;
+}
+.AddItem_AddItem .SelectionAdderButton {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddItem_AddItem .SelectionAdderButton .Button {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddItem_AddItem .SelectionAdderButton .Button .Vector {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddItem_AddItem .SelectionAdderButton .Button .ButtonText {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}

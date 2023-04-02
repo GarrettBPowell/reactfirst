@@ -1,0 +1,56 @@
+
+.RemoveItem_RemoveItem {
+	width: 134px;
+	height: 30px;
+	display: flex;
+	padding-right: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: flex-end;
+	align-items: center;
+}
+.RemoveItem_RemoveItem .RemoveText {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 64px;
+	height: 25px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Baloo;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 25.19999885559082px;
+}
+.RemoveItem_RemoveItem .RemoveButton {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.RemoveItem_RemoveItem .RemoveButton .Group3770 {
+}
+.RemoveItem_RemoveItem .RemoveButton .Group3770 .Group3768 {
+}
+.RemoveItem_RemoveItem .RemoveButton .Group3770 .Group3768 .Ellipse3 {
+	border-radius: 50%;
+}
+.RemoveItem_RemoveItem .RemoveButton .Group3770 .Group3768 .tipsclose {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.RemoveItem_RemoveItem .RemoveButton .Group3770 .Group3768 .tipsclose .Vector {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.81807520318664%;
+	height: 64.81811854026894%;
+}
+.RemoveItem_RemoveItem .RemoveButton .Group3770 .tipsclose_1 {
+}
+.RemoveItem_RemoveItem .RemoveButton .Group3770 .tipsclose_1 .Vector_1 {
+}

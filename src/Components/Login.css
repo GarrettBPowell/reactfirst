@@ -1,0 +1,181 @@
+
+.Login_Login {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(113,119,132,1.00);
+}
+.Login_Login .Header {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.5px;
+	height: 268px;
+}
+.Login_Login .Header .generalmenu {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 33.5px;
+	width: 107.2px;
+	height: 107.2px;
+}
+.Login_Login .Header .generalmenu .Vector {
+	position: absolute;
+	left: 11.166700744628907px;
+	top: 17.866700744628908px;
+	width: 79.16669845581055%;
+	height: 66.66669845581055%;
+}
+.Login_Login .Login_1 {
+	position: absolute;
+	left: 492.45px;
+	top: 294.8px;
+	width: 489.1px;
+	height: 207.70000000000002px;
+	color: rgba(255,255,255,1.00);
+	font-family: Baloo;
+	font-size: 160.8px;
+	font-weight: 400;
+	line-height: 253.09920654296874px;
+}
+.Login_Login .Frame13 {
+	position: absolute;
+	left: 113.9px;
+	top: 827.45px;
+	width: 1246.2px;
+	height: 1289.75px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Login_Login .Frame13 .Frame13_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 1048.55px;
+	height: 301.5px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Login_Login .Frame13 .Frame13_1 .Username {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 425.45px;
+	height: 90.45px;
+	color: rgba(36,46,66,1.00);
+	font-family: Inter;
+	font-size: 80.4px;
+	font-weight: 400;
+	line-height: 97.30227098464967px;
+}
+.Login_Login .Frame13 .Frame13_1 .Frame14 {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 1048.55px;
+	height: 170.85px;
+	background: rgba(177,233,233,1.00);
+	border-radius: 33.5px;
+}
+.Login_Login .Frame13 .Frame13_1 .Frame14 .definitelyYourUsername {
+	position: absolute;
+	left: 46.9px;
+	top: 36.85px;
+	width: 800.65px;
+	height: 93.8px;
+	display: flex;
+	align-items: center;
+	color: rgba(36,46,66,1.00);
+	font-family: Baloo;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 94.91220245361329px;
+}
+.Login_Login .Frame13 .Frame14_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 1048.55px;
+	height: 301.5px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Login_Login .Frame13 .Frame14_1 .Password {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 425.45px;
+	height: 90.45px;
+	color: rgba(36,46,66,1.00);
+	font-family: Inter;
+	font-size: 80.4px;
+	font-weight: 400;
+	line-height: 97.30227098464967px;
+}
+.Login_Login .Frame13 .Frame14_1 .Frame15 {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 1048.55px;
+	height: 170.85px;
+	background: rgba(177,233,233,1.00);
+	border-radius: 33.5px;
+}
+.Login_Login .Frame13 .Frame14_1 .Frame15 ._ {
+	position: absolute;
+	left: 50.25px;
+	top: 36.85px;
+	width: 760.45px;
+	height: 93.8px;
+	display: flex;
+	align-items: center;
+	color: rgba(36,46,66,1.00);
+	font-family: Baloo;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 94.91220245361329px;
+}
+.Login_Login .Frame13 .PrimaryButton {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 998.3000000000001px;
+	height: 261.3px;
+}
+.Login_Login .Frame13 .PrimaryButton .Button {
+	width: 944.7px;
+	height: 207.70000000000002px;
+	border-radius: 100.5px;
+}
+.Login_Login .Frame13 .PrimaryButton .Button .ButtonText {
+	height: 157.45000000000002px;
+	align-self: stretch;
+	font-size: 80.4px;
+	font-weight: 400;
+	line-height: 126.54960327148437px;
+}
+.Login_Login .Frame13 .NewMakeanaccount {
+	position: relative;
+	flex: none;
+	margin-bottom: 40.2px;
+	width: 1246.2px;
+	height: 304.85px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(54,169,174,1.00);
+	font-family: Baloo;
+	font-size: 60.300000000000004px;
+	font-weight: 400;
+	line-height: 94.91220245361329px;
+}

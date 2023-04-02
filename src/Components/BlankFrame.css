@@ -1,0 +1,26 @@
+
+.BlankFrame_BlankFrame {
+	width: 430px;
+	height: 932px;
+	background: rgba(113,119,132,1.00);
+}
+.BlankFrame_BlankFrame .Header {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.BlankFrame_BlankFrame .Header .generalmenu {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 32px;
+	height: 32px;
+}
+.BlankFrame_BlankFrame .Header .generalmenu .Vector {
+	position: absolute;
+	left: 3.3333740234375px;
+	top: 5.3333740234375px;
+	width: 79.16679382324219%;
+	height: 66.66679382324219%;
+}

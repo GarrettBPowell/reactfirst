@@ -1,0 +1,159 @@
+
+.Property1Variant2_Property1Variant2 {
+	width: 418px;
+	height: 596px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 16px;
+	padding-right: 16px;
+	padding-bottom: 16px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Property1Variant2_Property1Variant2 .SpinnerHeader {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 325px;
+	height: 79px;
+}
+.Property1Variant2_Property1Variant2 .SpinnerHeader .StatusIconsVariant6 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.Property1Variant2_Property1Variant2 .SpinnerHeader .StatusIconsVariant6 .Available {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(35,180,93,1.00);
+	border-radius: 50%;
+}
+.Property1Variant2_Property1Variant2 .SpinnerHeader .SpinnerTitle {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.Property1Variant2_Property1Variant2 .SpinnerHeader .SpinnerTitle .WorkBuds {
+	width: 150px;
+	font-weight: 400;
+}
+.Property1Variant2_Property1Variant2 .SpinnerHeader .DropdownMenu {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.Property1Variant2_Property1Variant2 .SpinnerHeader .DropdownMenu .directiondown {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.Property1Variant2_Property1Variant2 .SpinnerHeader .DropdownMenu .directiondown .Vector {
+	position: absolute;
+	left: 4.5679931640625px;
+	top: 1.21875px;
+	width: 70.71060672883065%;
+	height: 70.71100050403226%;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 388px;
+	height: 462px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner {
+	position: relative;
+	flex: none;
+	margin-bottom: 16px;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 {
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinWheelBackground {
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinWheelBackground .Polygon1 {
+	height: 284.114013671875px;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinWheelBackground .Polygon2 {
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinWheelBackground .Polygon3 {
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinWheelBackground .Polygon4 {
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinWheelBackground .Polygon5 {
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinWheelBackground .Polygon6 {
+	height: 283.2183837890625px;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinWheelBackground .spinnerdivision {
+	border: 7.432432651519775px solid rgba(36.00000165402889,46.000001057982445,66.00000366568565,1);
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinWheelBackground .Ellipse1 {
+	border-radius: 50%;
+	border: 7.429999828338623px solid rgba(36.00000165402889,46.000001057982445,66.00000366568565,1);
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinCenter {
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinCenter .Polygon1_1 {
+	height: 24.528263346879097%;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinCenter .Ellipse4 {
+	border-radius: 50%;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinCenter .Ellipse5 {
+	border-radius: 50%;
+	border: 2px solid rgba(201.00000321865082,198.00000339746475,207.00000286102295,1);
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .SpinCenter .SPIN {
+	height: 29.31034853469221%;
+	font-weight: 400;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .Resturants {
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .Resturants .PFChangs {
+	font-weight: 400;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .Resturants .Chipotle {
+	height: 24.52722296037618%;
+	font-weight: 400;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .Resturants .Mooyah {
+	height: 24.83119235529468%;
+	font-weight: 400;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .Resturants .RollShack {
+	font-weight: 400;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .Resturants .TheFlippingEgg {
+	font-weight: 400;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .Spinner .Spinner_1 .Resturants .RedRobin {
+	font-weight: 400;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .EditButton {
+	position: relative;
+	flex: none;
+	margin-bottom: 16px;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .EditButton .Button {
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .EditButton .Button .generalpen {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .EditButton .Button .generalpen .Vector_1 {
+	height: 79.296875%;
+}
+.Property1Variant2_Property1Variant2 .SpinnerandEdit .EditButton .Button .Edit {
+	font-weight: 400;
+}

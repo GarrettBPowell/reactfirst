@@ -1,0 +1,713 @@
+
+.AddMenu_AddMenu {
+	width: 340px;
+	height: 256px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 12px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.AddMenu_AddMenu .MenuTitle {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 300px;
+	height: 28px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Baloo;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 28.332000732421875px;
+}
+.AddMenu_AddMenu .Frame3772 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 220px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_1 .AddItem {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton .Button {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton .Button .Vector {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton .Button .ButtonText {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_1 .AddItem_1 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 .Button_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 .Button_1 .Vector_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 .Button_1 .ButtonText_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3773 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3773 .AddItem_2 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 .Button_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 .Button_2 .Vector_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 .Button_2 .ButtonText_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3773 .AddItem_3 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 .Button_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 .Button_3 .Vector_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 .Button_3 .ButtonText_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3774 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3774 .AddItem_4 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 .Button_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 .Button_4 .Vector_4 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 .Button_4 .ButtonText_4 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3774 .AddItem_5 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 .Button_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 .Button_5 .Vector_5 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 .Button_5 .ButtonText_5 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_2 .AddItem_6 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 .Button_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 .Button_6 .Vector_6 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 .Button_6 .ButtonText_6 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_2 .AddItem_7 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 .Button_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 .Button_7 .Vector_7 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 .Button_7 .ButtonText_7 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3775 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3775 .AddItem_8 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 .Button_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 .Button_8 .Vector_8 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 .Button_8 .ButtonText_8 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3775 .AddItem_9 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 .Button_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 .Button_9 .Vector_9 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 .Button_9 .ButtonText_9 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3776 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3776 .AddItem_10 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 .Button_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 .Button_10 .Vector_10 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 .Button_10 .ButtonText_10 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3776 .AddItem_11 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 .Button_11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 .Button_11 .Vector_11 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.AddMenu_AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 .Button_11 .ButtonText_11 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}

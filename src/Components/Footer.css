@@ -1,0 +1,381 @@
+
+.Footer_Footer {
+	width: 430px;
+	height: 107px;
+}
+.Footer_Footer .NavMenu {
+	position: absolute;
+	left: 0px;
+	top: 34.631103515625px;
+	width: 100%;
+	height: 67.63448269567756%;
+}
+.Footer_Footer .NavMenu .Rectangle969 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(190.18750101327896,187.0177111029625,187.0177111029625,1);
+	box-sizing: border-box;
+}
+.Footer_Footer .NavMenu .NavMenu_1 {
+	position: absolute;
+	left: 0px;
+	top: 6.92626953125px;
+	width: 99.53488372093024%;
+	height: 88.87097155079059%;
+	display: flex;
+	box-sizing: border-box;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Home {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 85.60009765625px;
+	height: 55px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Home .interactivebuttonhome {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 20px;
+	height: 20px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Home .interactivebuttonhome .Vector {
+	position: absolute;
+	left: 2.083251953125px;
+	top: 1.9498291015625px;
+	width: 79.166259765625%;
+	height: 79.833984375%;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Home .label {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 32px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(134,144,156,1.00);
+	font-family: Baloo;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18.88800048828125px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Home .badgewrapper {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 0px;
+	height: 0px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Home .badgewrapper .badge {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Home .badgewrapper .badge .placeholder {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Profile {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 85.60009765625px;
+	height: 55px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 6px;
+	padding-right: 16px;
+	padding-bottom: 6px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Profile .Group2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 20px;
+	height: 20px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Profile .Group2 .generaluser {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 20px;
+	height: 20px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Profile .Group2 .generaluser .Vector_1 {
+	position: absolute;
+	left: 2.083251953125px;
+	top: 2.0833740234375px;
+	width: 79.166259765625%;
+	height: 79.1668701171875%;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Profile .Profile_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 37px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(134,144,156,1.00);
+	font-family: Baloo;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18.88800048828125px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 0px;
+	height: 0px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 .badge_1 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Profile .badgewrapper_1 .badge_1 .placeholder_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .componentbasic {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 85.60009765625px;
+	height: 55px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .componentbasic .interactivebuttonsearch {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 20px;
+	height: 20px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .componentbasic .interactivebuttonsearch .Vector_2 {
+	position: absolute;
+	left: 1.5654296875px;
+	top: 1.5655517578125px;
+	width: 81.6943359375%;
+	height: 81.6943359375%;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .componentbasic .label_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 38px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(134,144,156,1.00);
+	font-family: Baloo;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18.88800048828125px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 0px;
+	height: 0px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 .badge_2 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .componentbasic .badgewrapper_2 .badge_2 .placeholder_2 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Friends {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 85.60009765625px;
+	height: 56px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 6px;
+	padding-right: 16px;
+	padding-bottom: 6px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Friends .Group2_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 26px;
+	height: 21px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 17.218505859375px;
+	height: 16.800048828125px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_1 .Vector_3 {
+	position: absolute;
+	left: 1.793701171875px;
+	top: 1.75px;
+	width: 79.16684390375318%;
+	height: 79.16672721724093%;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_2 {
+	position: absolute;
+	left: 8.78125px;
+	top: 4.199951171875px;
+	width: 17.218505859375px;
+	height: 16.800048828125px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Friends .Group2_1 .generaluser_2 .Vector_4 {
+	position: absolute;
+	left: 1.793701171875px;
+	top: 1.75px;
+	width: 79.16684390375318%;
+	height: 79.16672721724093%;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Friends .label_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 41px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(134,144,156,1.00);
+	font-family: Baloo;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18.88800048828125px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 0px;
+	height: 0px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 .badge_3 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Friends .badgewrapper_3 .badge_3 .placeholder_3 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Add {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 85.60009765625px;
+	height: 55px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 16px;
+	padding-bottom: 50px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Add .Button {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 28px;
+	height: 28px;
+	display: flex;
+	padding-top: 13.5px;
+	padding-right: 13.5px;
+	padding-bottom: 13.5px;
+	padding-left: 13.5px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(22,93,255,1.00);
+	border-radius: 100px;
+	border: 1px solid rgba(22.000000588595867,93.00000205636024,255,1);
+	box-sizing: border-box;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Add .Button .tipsplus {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 17px;
+	height: 17px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Add .Button .tipsplus .Vector_5 {
+	position: absolute;
+	left: 1.770751953125px;
+	top: 1.7708740234375px;
+	width: 79.16618795955883%;
+	height: 79.16690602022058%;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 0px;
+	height: 0px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 .badge_4 {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Add .badgewrapper_4 .badge_4 .placeholder_4 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 0%;
+	height: 0%;
+}
+.Footer_Footer .NavMenu .NavMenu_1 .Add .label_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 60px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(134,144,156,1.00);
+	font-family: Baloo;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18.88800048828125px;
+}

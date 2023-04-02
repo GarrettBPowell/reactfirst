@@ -1,0 +1,38 @@
+
+.SecondaryButton_SecondaryButton {
+	width: 298px;
+	height: 78px;
+}
+.SecondaryButton_SecondaryButton .Button {
+	position: absolute;
+	left: 8px;
+	top: 8px;
+	width: 282px;
+	height: 62px;
+	display: flex;
+	padding-top: 7.5px;
+	padding-right: 16px;
+	padding-bottom: 7.5px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(35,180,93,1.00);
+	border-radius: 30px;
+}
+.SecondaryButton_SecondaryButton .Button .ButtonText {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	height: 47px;
+	align-self: stretch;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 37.7760009765625px;
+}

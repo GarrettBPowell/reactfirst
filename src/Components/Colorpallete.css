@@ -1,0 +1,794 @@
+
+.Colorpallete_Colorpallete {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(113,119,132,1.00);
+	border-radius: 28.71px;
+}
+.Colorpallete_Colorpallete .Primarycolor {
+	position: absolute;
+	left: 30.853680912752328%;
+	top: 902.2155688476562px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor .Secondarycolor {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Blue {
+	position: absolute;
+	left: 32.11521238717973%;
+	top: 106.92px;
+	transform: translate(-50%, 0);
+	width: 374.60889404296876px;
+	height: 85.8507618713379px;
+	border-radius: 61.38px;
+}
+.Colorpallete_Colorpallete .Blue_1 {
+	position: absolute;
+	left: 63.65652674325505%;
+	top: 106.92px;
+	transform: translate(-50%, 0);
+	width: 374.60889404296876px;
+	height: 85.8507618713379px;
+	border-radius: 61.38px;
+}
+.Colorpallete_Colorpallete .overlay {
+	position: absolute;
+	left: 39.69565217391305%;
+	top: 679.3319091796875px;
+	transform: translate(-50%, 0);
+	width: 41.58px;
+	height: 41.58px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_1 {
+	position: absolute;
+	left: 39.69565217391305%;
+	top: 553.8689868164063px;
+	transform: translate(-50%, 0);
+	width: 41.58px;
+	height: 41.58px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_1 .Secondarycolor_2 {
+	width: 100%;
+	height: 100%;
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Primarycolor_1 {
+	position: absolute;
+	left: 39.69565217391305%;
+	top: 433.62px;
+	transform: translate(-50%, 0);
+	width: 41.58px;
+	height: 41.58px;
+}
+.Colorpallete_Colorpallete .Primarycolor_1 .Secondarycolor_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Blue_2 {
+	position: absolute;
+	left: 39.69871720023777%;
+	top: 404.89580017089844px;
+	transform: translate(-50%, 0);
+	width: 85.85095825195313px;
+	height: 336.87330139160156px;
+	border-radius: 61.38px;
+}
+.Colorpallete_Colorpallete .Primarycolor_2 {
+	position: absolute;
+	left: 30.853680912752328%;
+	top: 661.7382000732422px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_2 .Secondarycolor_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Primarycolor_3 {
+	position: absolute;
+	left: 78.2739834045031%;
+	top: 661.7382000732422px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_3 .Secondarycolor_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Primarycolor_4 {
+	position: absolute;
+	left: 68.43113717973603%;
+	top: 661.7382000732422px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_4 .Secondarycolor_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Primarycolor_5 {
+	position: absolute;
+	left: 58.588290954968954%;
+	top: 661.7382000732422px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_5 .Secondarycolor_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Primarycolor_6 {
+	position: absolute;
+	left: 48.74544473020186%;
+	top: 661.7382000732422px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_6 .Secondarycolor_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_1 {
+	position: absolute;
+	left: 39.698704689926245%;
+	top: 661.7382000732422px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_2 {
+	position: absolute;
+	left: 30.853680912752328%;
+	top: 661.7382000732422px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_3 {
+	position: absolute;
+	left: 48.74544473020186%;
+	top: 661.7382000732422px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_4 {
+	position: absolute;
+	left: 58.588290954968954%;
+	top: 661.7382000732422px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(54,169,174,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_5 {
+	position: absolute;
+	left: 68.43113717973603%;
+	top: 661.7382000732422px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_6 {
+	position: absolute;
+	left: 78.2739834045031%;
+	top: 661.7382000732422px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_9 {
+	position: absolute;
+	left: 30.853680912752328%;
+	top: 542.9789868164063px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_9 .Secondarycolor_10 {
+	width: 100%;
+	height: 100%;
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_11 {
+	position: absolute;
+	left: 78.2739834045031%;
+	top: 542.9789868164063px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_11 .Secondarycolor_12 {
+	width: 100%;
+	height: 100%;
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_13 {
+	position: absolute;
+	left: 68.43113717973603%;
+	top: 542.9789868164063px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_13 .Secondarycolor_14 {
+	width: 100%;
+	height: 100%;
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_15 {
+	position: absolute;
+	left: 58.588290954968954%;
+	top: 542.9789868164063px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_15 .Secondarycolor_16 {
+	width: 100%;
+	height: 100%;
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_17 {
+	position: absolute;
+	left: 48.74544473020186%;
+	top: 542.9789868164063px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_17 .Secondarycolor_18 {
+	width: 100%;
+	height: 100%;
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_19 {
+	position: absolute;
+	left: 39.698704689926245%;
+	top: 542.9789868164063px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_19 .Secondarycolor_20 {
+	width: 100%;
+	height: 100%;
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .INdicators {
+	position: absolute;
+	left: 20.99930852096273%;
+	top: 317.7933837890625px;
+	transform: translate(-50%, 0);
+	width: 146.52px;
+	height: 38.61px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(36,46,66,1.00);
+	font-family: Baloo;
+	font-size: 24.75px;
+	font-weight: 400;
+	line-height: 38.95649848937988px;
+}
+.Colorpallete_Colorpallete .Primary {
+	position: absolute;
+	left: 22.331606657608695%;
+	top: 438.3061853027344px;
+	transform: translate(-50%, 0);
+	width: 107.91px;
+	height: 38.61px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(36,46,66,1.00);
+	font-family: Baloo;
+	font-size: 24.75px;
+	font-weight: 400;
+	line-height: 38.95649848937988px;
+}
+.Colorpallete_Colorpallete .Secondary {
+	position: absolute;
+	left: 21.101792993012424%;
+	top: 558.8191076660156px;
+	transform: translate(-50%, 0);
+	width: 143.55px;
+	height: 38.61px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(36,46,66,1.00);
+	font-family: Baloo;
+	font-size: 24.75px;
+	font-weight: 400;
+	line-height: 38.95649848937988px;
+}
+.Colorpallete_Colorpallete .Dark1 {
+	position: absolute;
+	left: 23.219805415372672%;
+	top: 679.3319091796875px;
+	transform: translate(-50%, 0);
+	width: 82.17px;
+	height: 38.61px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(36,46,66,1.00);
+	font-family: Baloo;
+	font-size: 24.75px;
+	font-weight: 400;
+	line-height: 38.95649848937988px;
+}
+.Colorpallete_Colorpallete .Dark2 {
+	position: absolute;
+	left: 23.11732094332298%;
+	top: 799.8448315429688px;
+	transform: translate(-50%, 0);
+	width: 85.14px;
+	height: 38.61px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(36,46,66,1.00);
+	font-family: Baloo;
+	font-size: 24.75px;
+	font-weight: 400;
+	line-height: 38.95649848937988px;
+}
+.Colorpallete_Colorpallete .Bg {
+	position: absolute;
+	left: 24.893718458850934%;
+	top: 920.35775390625px;
+	transform: translate(-50%, 0);
+	width: 33.66px;
+	height: 38.61px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(36,46,66,1.00);
+	font-family: Baloo;
+	font-size: 24.75px;
+	font-weight: 400;
+	line-height: 38.95649848937988px;
+}
+.Colorpallete_Colorpallete .overlay_7 {
+	position: absolute;
+	left: 30.853680912752328%;
+	top: 542.9789868164063px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_8 {
+	position: absolute;
+	left: 48.74544473020186%;
+	top: 542.9789868164063px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_9 {
+	position: absolute;
+	left: 58.588290954968954%;
+	top: 542.9789868164063px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_10 {
+	position: absolute;
+	left: 68.43113717973603%;
+	top: 542.9789868164063px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_11 {
+	position: absolute;
+	left: 78.2739834045031%;
+	top: 542.9789868164063px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Dark2_1 {
+	position: absolute;
+	left: 30.853680912752328%;
+	top: 782.4774133300781px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 50.49px;
+}
+.Colorpallete_Colorpallete .Red {
+	position: absolute;
+	left: 30.853680912752328%;
+	top: 301.4583837890625px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(212,80,80,1.00);
+	border-radius: 50.49px;
+}
+.Colorpallete_Colorpallete .green {
+	position: absolute;
+	left: 39.698704689926245%;
+	top: 301.4583837890625px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(35,180,93,1.00);
+	border-radius: 50.49px;
+}
+.Colorpallete_Colorpallete .yellow {
+	position: absolute;
+	left: 48.74544473020186%;
+	top: 301.4583837890625px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(244,182,60,1.00);
+	border-radius: 50.49px;
+}
+.Colorpallete_Colorpallete .Dark2_2 {
+	position: absolute;
+	left: 39.698704689926245%;
+	top: 782.4774133300781px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 50.49px;
+}
+.Colorpallete_Colorpallete .Dark2_3 {
+	position: absolute;
+	left: 48.54372846710015%;
+	top: 782.4774133300781px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 50.49px;
+}
+.Colorpallete_Colorpallete .Dark2_4 {
+	position: absolute;
+	left: 58.588290954968954%;
+	top: 782.4774133300781px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 50.49px;
+}
+.Colorpallete_Colorpallete .CHangethiscolor {
+	position: absolute;
+	left: 34.483456060753106%;
+	top: 137.30678833007812px;
+	transform: translate(-50%, 0);
+	width: 262.35px;
+	height: 25.077170104980468px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(40,100,255,1.00);
+	font-family: Baloo;
+	font-size: 24.75px;
+	font-weight: 400;
+	line-height: 38.95649848937988px;
+}
+.Colorpallete_Colorpallete .CHangethiscolor_1 {
+	position: absolute;
+	left: 66.02477041682842%;
+	top: 137.30678833007812px;
+	transform: translate(-50%, 0);
+	width: 262.35px;
+	height: 25.077170104980468px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(255,194,40,1.00);
+	font-family: Baloo;
+	font-size: 24.75px;
+	font-weight: 400;
+	line-height: 38.95649848937988px;
+}
+.Colorpallete_Colorpallete .Primarycolor_7 {
+	position: absolute;
+	left: 30.853680912752328%;
+	top: 421.9711853027344px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_7 .Secondarycolor_21 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Primarycolor_8 {
+	position: absolute;
+	left: 78.2739834045031%;
+	top: 421.9711853027344px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_8 .Secondarycolor_22 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Primarycolor_9 {
+	position: absolute;
+	left: 30.853680912752328%;
+	top: 902.2155688476562px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_9 .Secondarycolor_23 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Primarycolor_10 {
+	position: absolute;
+	left: 68.43113717973603%;
+	top: 421.9711853027344px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_10 .Secondarycolor_24 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Primarycolor_11 {
+	position: absolute;
+	left: 58.588290954968954%;
+	top: 421.9711853027344px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_11 .Secondarycolor_25 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Primarycolor_12 {
+	position: absolute;
+	left: 48.74544473020186%;
+	top: 421.9711853027344px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_12 .Secondarycolor_26 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Primarycolor_13 {
+	position: absolute;
+	left: 39.698704689926245%;
+	top: 421.9711853027344px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_13 .Secondarycolor_27 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_12 {
+	position: absolute;
+	left: 30.853680912752328%;
+	top: 421.9711853027344px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(36,46,66,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_13 {
+	position: absolute;
+	left: 48.74544473020186%;
+	top: 421.9711853027344px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(67,203,203,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_14 {
+	position: absolute;
+	left: 58.588290954968954%;
+	top: 421.9711853027344px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(90,210,210,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_15 {
+	position: absolute;
+	left: 68.43113717973603%;
+	top: 421.9711853027344px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(130,220,220,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_16 {
+	position: absolute;
+	left: 78.2739834045031%;
+	top: 421.9711853027344px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .overlay_17 {
+	position: absolute;
+	left: 30.853680912752328%;
+	top: 902.2155688476562px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 49.5px;
+	border: 1px solid rgba(36.00000165402889,46.000001057982445,66.00000366568565,1);
+	box-sizing: border-box;
+}
+.Colorpallete_Colorpallete .Maincolors {
+	position: absolute;
+	left: 39.69871303013392%;
+	top: 498.92156982421875px;
+	transform: translate(-50%, 0);
+	width: 66.64203369140625px;
+	height: 15.84px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(36,46,66,1.00);
+	font-family: Baloo;
+	font-size: 9.9px;
+	font-weight: 400;
+	line-height: 15.582599773406983px;
+}
+.Colorpallete_Colorpallete .Primarycolor_14 {
+	position: absolute;
+	left: 22.273291925465838%;
+	top: 118.16541870117187px;
+	transform: translate(-50%, 0);
+	width: 63.36px;
+	height: 63.36px;
+}
+.Colorpallete_Colorpallete .Primarycolor_14 .Secondarycolor_28 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(59,201,201,1.00);
+	border-radius: 49.5px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_29 {
+	width: 64px;
+	height: 64px;
+}
+.Colorpallete_Colorpallete .Secondarycolor_29 .Secondarycolor_30 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(66,166,82,1.00);
+	border-radius: 50px;
+}

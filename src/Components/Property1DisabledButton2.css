@@ -1,0 +1,38 @@
+
+.Property1DisabledButton2_Property1DisabledButton2 {
+	width: 282px;
+	height: 62px;
+}
+.Property1DisabledButton2_Property1DisabledButton2 .Button {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 282px;
+	height: 62px;
+	display: flex;
+	padding-top: 7.5px;
+	padding-right: 16px;
+	padding-bottom: 7.5px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(200,203,208,1.00);
+	border-radius: 30px;
+}
+.Property1DisabledButton2_Property1DisabledButton2 .Button .ButtonText {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	height: 47px;
+	align-self: stretch;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 25.19999885559082px;
+}

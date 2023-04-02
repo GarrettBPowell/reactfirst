@@ -1,0 +1,19 @@
+
+.SpinnerTitle_SpinnerTitle {
+	width: 249px;
+	height: 76px;
+}
+.SpinnerTitle_SpinnerTitle .WorkBuds {
+	position: absolute;
+	left: 4.6285400390625px;
+	top: 0px;
+	width: 235px;
+	height: 76px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Baloo;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 75.552001953125px;
+}

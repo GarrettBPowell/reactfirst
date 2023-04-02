@@ -1,0 +1,28 @@
+
+.Header2Default_Header2Default {
+	width: 430px;
+	height: 80px;
+	display: flex;
+	padding-top: 24px;
+	padding-right: 24px;
+	padding-bottom: 24px;
+	padding-left: 24px;
+	box-sizing: border-box;
+	justify-content: flex-end;
+	align-items: center;
+	background: rgba(67,203,203,1.00);
+}
+.Header2Default_Header2Default .generalmenu {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 32px;
+	height: 32px;
+}
+.Header2Default_Header2Default .generalmenu .Vector {
+	position: absolute;
+	left: 3.3333740234375px;
+	top: 5.333343505859375px;
+	width: 79.16679382324219%;
+	height: 66.66669845581055%;
+}

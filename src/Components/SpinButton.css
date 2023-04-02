@@ -1,0 +1,105 @@
+
+.SpinButton_SpinButton {
+	width: 100px;
+	height: 100px;
+}
+.SpinButton_SpinButton .Group1 {
+	position: absolute;
+	left: 11.5384521484375px;
+	top: 12.3077392578125px;
+	width: 76.923095703125%;
+	height: 76.1123046875%;
+}
+.SpinButton_SpinButton .Group1 .Ellipse2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(49,131,140,1.00);
+	border-radius: 50%;
+}
+.SpinButton_SpinButton .Group1 .Ellipse1 {
+	position: absolute;
+	left: 19.230712890625px;
+	top: 18.4615478515625px;
+	width: 50%;
+	height: 50%;
+}
+.SpinButton_SpinButton .Group1 .SPIN {
+	position: absolute;
+	left: 23.076904296875px;
+	top: 26.15380859375px;
+	width: 40.000063476547005%;
+	height: 31.000044906914383%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Baloo;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18.88800048828125px;
+}
+.SpinButton_SpinButton .Group12 {
+	position: absolute;
+	left: -11.02880859375px;
+	top: -11.5299072265625px;
+	width: 122.82373046874999%;
+	height: 123.096435546875%;
+}
+.SpinButton_SpinButton .Group12 .Purple {
+	position: absolute;
+	left: 11.02880859375px;
+	top: 11.5299072265625px;
+	width: 82.66320271285625%;
+	height: 82.07349024103387%;
+	background: rgba(47,128,237,1.00);
+	border-radius: 50%;
+}
+.SpinButton_SpinButton .Group12 .Purple_1 {
+	position: absolute;
+	left: 19.190185546875px;
+	top: 19.2540283203125px;
+	width: 68.12791451163419%;
+	height: 68.68751276767493%;
+	background: rgba(187,107,217,1.00);
+	border-radius: 50%;
+}
+.SpinButton_SpinButton .Group12 .Yellow {
+	position: absolute;
+	left: 14.970458984375px;
+	top: 15.69287109375px;
+	width: 73.9967918010042%;
+	height: 73.89940162989906%;
+	background: rgba(255,218,126,1.00);
+	border-radius: 50%;
+}
+.SpinButton_SpinButton .Group12 .LightBlue {
+	position: absolute;
+	left: 10.264892578125px;
+	top: 10.5369873046875px;
+	width: 82.66320271285625%;
+	height: 82.07349024103387%;
+	background: rgba(86,204,242,1.00);
+	border-radius: 50%;
+}
+.SpinButton_SpinButton .Group12 .Orange {
+	position: absolute;
+	left: 19.190185546875px;
+	top: 19.25390625px;
+	width: 68.12791451163419%;
+	height: 68.68751276767493%;
+	background: rgba(220,142,26,1.00);
+	border-radius: 50%;
+}
+.SpinButton_SpinButton .Group12 .Red {
+	position: absolute;
+	left: 16.2000732421875px;
+	top: 16.397705078125px;
+	width: 73.99927646565399%;
+	height: 73.90207912289296%;
+	background: rgba(212,80,80,1.00);
+	border-radius: 50%;
+}

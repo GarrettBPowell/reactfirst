@@ -1,0 +1,2267 @@
+
+.ButtonsandAdders_ButtonsandAdders {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(113,119,132,1.00);
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu {
+	width: 340px;
+	height: 256px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 12px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .MenuTitle {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 300px;
+	height: 28px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Baloo;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 28.332000732421875px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 220px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_1 .AddItem {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton .Button {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton .Button .Vector {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_1 .AddItem .SelectionAdderButton .Button .ButtonText {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_1 .AddItem_1 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 .Button_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 .Button_1 .Vector_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_1 .AddItem_1 .SelectionAdderButton_1 .Button_1 .ButtonText_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3773 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3773 .AddItem_2 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 .Button_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 .Button_2 .Vector_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3773 .AddItem_2 .SelectionAdderButton_2 .Button_2 .ButtonText_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3773 .AddItem_3 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 .Button_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 .Button_3 .Vector_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3773 .AddItem_3 .SelectionAdderButton_3 .Button_3 .ButtonText_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3774 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3774 .AddItem_4 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 .Button_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 .Button_4 .Vector_4 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3774 .AddItem_4 .SelectionAdderButton_4 .Button_4 .ButtonText_4 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3774 .AddItem_5 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 .Button_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 .Button_5 .Vector_5 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3774 .AddItem_5 .SelectionAdderButton_5 .Button_5 .ButtonText_5 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_2 .AddItem_6 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 .Button_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 .Button_6 .Vector_6 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_2 .AddItem_6 .SelectionAdderButton_6 .Button_6 .ButtonText_6 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_2 .AddItem_7 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 .Button_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 .Button_7 .Vector_7 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3772_2 .AddItem_7 .SelectionAdderButton_7 .Button_7 .ButtonText_7 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3775 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3775 .AddItem_8 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 .Button_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 .Button_8 .Vector_8 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3775 .AddItem_8 .SelectionAdderButton_8 .Button_8 .ButtonText_8 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3775 .AddItem_9 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 .Button_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 .Button_9 .Vector_9 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3775 .AddItem_9 .SelectionAdderButton_9 .Button_9 .ButtonText_9 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3776 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 316px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3776 .AddItem_10 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 .Button_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 .Button_10 .Vector_10 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3776 .AddItem_10 .SelectionAdderButton_10 .Button_10 .ButtonText_10 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3776 .AddItem_11 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 .Button_11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 .Button_11 .Vector_11 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .AddMenu .Frame3772 .Frame3776 .AddItem_11 .SelectionAdderButton_11 .Button_11 .ButtonText_11 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveButton {
+	width: 30px;
+	height: 30px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveButton .Group3770 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30px;
+	height: 30px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveButton .Group3770 .Group3768 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30px;
+	height: 30px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveButton .Group3770 .Group3768 .Ellipse3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30px;
+	height: 30px;
+	background: rgba(235,87,87,1.00);
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveButton .Group3770 .Group3768 .tipsclose {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveButton .Group3770 .Group3768 .tipsclose .Vector_12 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.6711578369140625px;
+	top: 3.671142578125px;
+	width: 64.81814831820827%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveButton .Group3770 .tipsclose_1 {
+	position: absolute;
+	left: 4.347900390625px;
+	top: 3.9130859375px;
+	width: 21.304351806640625px;
+	height: 21.3043212890625px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveButton .Group3770 .tipsclose_1 .Vector_13 {
+	position: absolute;
+	left: 3.7476348876953125px;
+	top: 3.7476806640625px;
+	width: 64.81812803591458%;
+	height: 64.81822088525999%;
+}
+.ButtonsandAdders_ButtonsandAdders .CancelButton {
+	position: absolute;
+	left: 887.7px;
+	top: 159.5px;
+	width: 115.50000000000001px;
+	height: 38.5px;
+	border-radius: 22px;
+	border: 1px solid rgba(235.0000011920929,87.00000241398811,87.00000241398811,1);
+}
+.ButtonsandAdders_ButtonsandAdders .CancelButton .ButtonText_12 {
+	width: 60.50000000000001px;
+	height: 27.500000000000004px;
+	font-size: 19.8px;
+	font-weight: 400;
+	line-height: 27.719998741149904px;
+}
+.ButtonsandAdders_ButtonsandAdders .Button_12 {
+	position: absolute;
+	left: 1061.5px;
+	top: 159.5px;
+	width: 115.50000000000001px;
+	height: 38.5px;
+	background: rgba(59,201,201,1.00);
+	border-radius: 22px;
+}
+.ButtonsandAdders_ButtonsandAdders .Button_12 .tipsplus {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4.4px;
+	width: 17.6px;
+	height: 17.6px;
+}
+.ButtonsandAdders_ButtonsandAdders .Button_12 .tipsplus .Vector_14 {
+	position: absolute;
+	left: 1.833330535888672px;
+	top: 1.8332885742187501px;
+	width: 79.16665077209473%;
+	height: 79.16641235351562%;
+}
+.ButtonsandAdders_ButtonsandAdders .Button_12 .ButtonText_13 {
+	position: relative;
+	flex: none;
+	margin-right: 4.4px;
+	width: 73.7px;
+	height: 27.500000000000004px;
+	display: flex;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 19.8px;
+	font-weight: 400;
+	line-height: 27.719998741149904px;
+}
+.ButtonsandAdders_ButtonsandAdders .ForwardButton {
+	position: absolute;
+	left: 1091.2px;
+	top: 70.4px;
+	width: 55.00000000000001px;
+	height: 55.00000000000001px;
+}
+.ButtonsandAdders_ButtonsandAdders .ForwardButton .Button_13 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 55.00000000000001px;
+	height: 55.00000000000001px;
+	background: rgba(59,201,201,1.00);
+	border-radius: 66px;
+}
+.ButtonsandAdders_ButtonsandAdders .ForwardButton .Button_13 .tipsplus_1 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 17.6px;
+	height: 17.6px;
+}
+.ButtonsandAdders_ButtonsandAdders .ForwardButton .Button_13 .tipsplus_1 .Vector_15 {
+	position: absolute;
+	left: 1.833330535888672px;
+	top: 1.8332885742187501px;
+	width: 79.16665077209473%;
+	height: 79.16641235351562%;
+}
+.ButtonsandAdders_ButtonsandAdders .ForwardButton .directionarrowright {
+	position: absolute;
+	left: 9.565112304687501px;
+	top: 7.9709716796875005px;
+	width: 38.26086883544922px;
+	height: 38.26085205078125px;
+}
+.ButtonsandAdders_ButtonsandAdders .ForwardButton .directionarrowright .Vector_16 {
+	position: absolute;
+	left: 3.985506820678711px;
+	top: 7.856030273437501px;
+	width: 79.75886735456214%;
+	height: 58.92559460094968%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu {
+	width: 335px;
+	height: 144px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 12px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 311px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveText {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton_1 .Group3770_1 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton_1 .Group3770_1 .Group3768_1 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton_1 .Group3770_1 .Group3768_1 .Ellipse3_1 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton_1 .Group3770_1 .Group3768_1 .tipsclose_2 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton_1 .Group3770_1 .Group3768_1 .tipsclose_2 .Vector_17 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton_1 .Group3770_1 .tipsclose_3 {
+	width: 21.3043212890625px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem .RemoveButton_1 .Group3770_1 .tipsclose_3 .Vector_18 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem_1 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveText_1 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_2 .Group3770_2 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_2 .Group3770_2 .Group3768_2 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_2 .Group3770_2 .Group3768_2 .Ellipse3_2 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_2 .Group3770_2 .Group3768_2 .tipsclose_4 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_2 .Group3770_2 .Group3768_2 .tipsclose_4 .Vector_19 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_2 .Group3770_2 .tipsclose_5 {
+	width: 21.3043212890625px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow .RemoveItem_1 .RemoveButton_2 .Group3770_2 .tipsclose_5 .Vector_20 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 311px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveText_2 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_3 .Group3770_3 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_3 .Group3770_3 .Group3768_3 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_3 .Group3770_3 .Group3768_3 .Ellipse3_3 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_3 .Group3770_3 .Group3768_3 .tipsclose_6 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_3 .Group3770_3 .Group3768_3 .tipsclose_6 .Vector_21 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_3 .Group3770_3 .tipsclose_7 {
+	width: 21.3043212890625px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_2 .RemoveButton_3 .Group3770_3 .tipsclose_7 .Vector_22 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveText_3 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_4 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_4 .Group3770_4 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_4 .Group3770_4 .Group3768_4 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_4 .Group3770_4 .Group3768_4 .Ellipse3_4 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_4 .Group3770_4 .Group3768_4 .tipsclose_8 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_4 .Group3770_4 .Group3768_4 .tipsclose_8 .Vector_23 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_4 .Group3770_4 .tipsclose_9 {
+	width: 21.3043212890625px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_1 .RemoveItem_3 .RemoveButton_4 .Group3770_4 .tipsclose_9 .Vector_24 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 311px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveText_4 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_5 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_5 .Group3770_5 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_5 .Group3770_5 .Group3768_5 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_5 .Group3770_5 .Group3768_5 .Ellipse3_5 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_5 .Group3770_5 .Group3768_5 .tipsclose_10 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_5 .Group3770_5 .Group3768_5 .tipsclose_10 .Vector_25 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_5 .Group3770_5 .tipsclose_11 {
+	width: 21.3043212890625px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_4 .RemoveButton_5 .Group3770_5 .tipsclose_11 .Vector_26 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveText_5 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_6 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_6 .Group3770_6 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_6 .Group3770_6 .Group3768_6 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_6 .Group3770_6 .Group3768_6 .Ellipse3_6 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_6 .Group3770_6 .Group3768_6 .tipsclose_12 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_6 .Group3770_6 .Group3768_6 .tipsclose_12 .Vector_27 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_6 .Group3770_6 .tipsclose_13 {
+	width: 21.3043212890625px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_2 .RemoveItem_5 .RemoveButton_6 .Group3770_6 .tipsclose_13 .Vector_28 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 311px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveText_6 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_7 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_7 .Group3770_7 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_7 .Group3770_7 .Group3768_7 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_7 .Group3770_7 .Group3768_7 .Ellipse3_7 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_7 .Group3770_7 .Group3768_7 .tipsclose_14 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_7 .Group3770_7 .Group3768_7 .tipsclose_14 .Vector_29 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_7 .Group3770_7 .tipsclose_15 {
+	width: 21.3043212890625px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_6 .RemoveButton_7 .Group3770_7 .tipsclose_15 .Vector_30 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveText_7 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_8 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_8 .Group3770_8 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_8 .Group3770_8 .Group3768_8 {
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_8 .Group3770_8 .Group3768_8 .Ellipse3_8 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_8 .Group3770_8 .Group3768_8 .tipsclose_16 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_8 .Group3770_8 .Group3768_8 .tipsclose_16 .Vector_31 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671142578125px;
+	top: 3.671142578125px;
+	width: 64.8182214332299%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_8 .Group3770_8 .tipsclose_17 {
+	width: 21.3043212890625px;
+}
+.ButtonsandAdders_ButtonsandAdders .RemoveMenu .RemoveButtonRow_3 .RemoveItem_7 .RemoveButton_8 .Group3770_8 .tipsclose_17 .Vector_32 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder {
+	width: 340px;
+	height: 424px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_8 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_8 .RemoveText_8 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_8 .RemoveButton_9 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_8 .RemoveButton_9 .Group3770_9 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_8 .RemoveButton_9 .Group3770_9 .Group3768_9 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_8 .RemoveButton_9 .Group3770_9 .Group3768_9 .Ellipse3_9 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_8 .RemoveButton_9 .Group3770_9 .Group3768_9 .tipsclose_18 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_8 .RemoveButton_9 .Group3770_9 .Group3768_9 .tipsclose_18 .Vector_33 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.6711578369140625px;
+	top: 3.671142578125px;
+	width: 64.81814831820827%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_8 .RemoveButton_9 .Group3770_9 .tipsclose_19 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_8 .RemoveButton_9 .Group3770_9 .tipsclose_19 .Vector_34 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_9 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_9 .RemoveText_9 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_9 .RemoveButton_10 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_9 .RemoveButton_10 .Group3770_10 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_9 .RemoveButton_10 .Group3770_10 .Group3768_10 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_9 .RemoveButton_10 .Group3770_10 .Group3768_10 .Ellipse3_10 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_9 .RemoveButton_10 .Group3770_10 .Group3768_10 .tipsclose_20 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.869565963745117px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_9 .RemoveButton_10 .Group3770_10 .Group3768_10 .tipsclose_20 .Vector_35 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671152353286743px;
+	top: 3.671142578125px;
+	width: 64.81811768467006%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_9 .RemoveButton_10 .Group3770_10 .tipsclose_21 {
+	width: 21.30434799194336px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_4 .RemoveItem_9 .RemoveButton_10 .Group3770_10 .tipsclose_21 .Vector_36 {
+	width: 64.81812173634648%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_10 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_10 .RemoveText_10 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_10 .RemoveButton_11 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_10 .RemoveButton_11 .Group3770_11 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_10 .RemoveButton_11 .Group3770_11 .Group3768_11 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_10 .RemoveButton_11 .Group3770_11 .Group3768_11 .Ellipse3_11 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_10 .RemoveButton_11 .Group3770_11 .Group3768_11 .tipsclose_22 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_10 .RemoveButton_11 .Group3770_11 .Group3768_11 .tipsclose_22 .Vector_37 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.6711578369140625px;
+	top: 3.671142578125px;
+	width: 64.81814831820827%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_10 .RemoveButton_11 .Group3770_11 .tipsclose_23 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_10 .RemoveButton_11 .Group3770_11 .tipsclose_23 .Vector_38 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_11 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_11 .RemoveText_11 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_11 .RemoveButton_12 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_11 .RemoveButton_12 .Group3770_12 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_11 .RemoveButton_12 .Group3770_12 .Group3768_12 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_11 .RemoveButton_12 .Group3770_12 .Group3768_12 .Ellipse3_12 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_11 .RemoveButton_12 .Group3770_12 .Group3768_12 .tipsclose_24 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.869565963745117px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_11 .RemoveButton_12 .Group3770_12 .Group3768_12 .tipsclose_24 .Vector_39 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671152353286743px;
+	top: 3.671142578125px;
+	width: 64.81811768467006%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_11 .RemoveButton_12 .Group3770_12 .tipsclose_25 {
+	width: 21.30434799194336px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_5 .RemoveItem_11 .RemoveButton_12 .Group3770_12 .tipsclose_25 .Vector_40 {
+	width: 64.81812173634648%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_12 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_12 .RemoveText_12 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_12 .RemoveButton_13 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_12 .RemoveButton_13 .Group3770_13 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_12 .RemoveButton_13 .Group3770_13 .Group3768_13 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_12 .RemoveButton_13 .Group3770_13 .Group3768_13 .Ellipse3_13 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_12 .RemoveButton_13 .Group3770_13 .Group3768_13 .tipsclose_26 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_12 .RemoveButton_13 .Group3770_13 .Group3768_13 .tipsclose_26 .Vector_41 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.6711578369140625px;
+	top: 3.671142578125px;
+	width: 64.81814831820827%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_12 .RemoveButton_13 .Group3770_13 .tipsclose_27 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_12 .RemoveButton_13 .Group3770_13 .tipsclose_27 .Vector_42 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_13 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_13 .RemoveText_13 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_13 .RemoveButton_14 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_13 .RemoveButton_14 .Group3770_14 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_13 .RemoveButton_14 .Group3770_14 .Group3768_14 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_13 .RemoveButton_14 .Group3770_14 .Group3768_14 .Ellipse3_14 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_13 .RemoveButton_14 .Group3770_14 .Group3768_14 .tipsclose_28 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.869565963745117px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_13 .RemoveButton_14 .Group3770_14 .Group3768_14 .tipsclose_28 .Vector_43 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671152353286743px;
+	top: 3.671142578125px;
+	width: 64.81811768467006%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_13 .RemoveButton_14 .Group3770_14 .tipsclose_29 {
+	width: 21.30434799194336px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_6 .RemoveItem_13 .RemoveButton_14 .Group3770_14 .tipsclose_29 .Vector_44 {
+	width: 64.81812173634648%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_14 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_14 .RemoveText_14 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_14 .RemoveButton_15 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_14 .RemoveButton_15 .Group3770_15 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_14 .RemoveButton_15 .Group3770_15 .Group3768_15 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_14 .RemoveButton_15 .Group3770_15 .Group3768_15 .Ellipse3_15 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_14 .RemoveButton_15 .Group3770_15 .Group3768_15 .tipsclose_30 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.86956787109375px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_14 .RemoveButton_15 .Group3770_15 .Group3768_15 .tipsclose_30 .Vector_45 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.6711578369140625px;
+	top: 3.671142578125px;
+	width: 64.81814831820827%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_14 .RemoveButton_15 .Group3770_15 .tipsclose_31 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_14 .RemoveButton_15 .Group3770_15 .tipsclose_31 .Vector_46 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_15 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_15 .RemoveText_15 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_15 .RemoveButton_16 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_15 .RemoveButton_16 .Group3770_16 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_15 .RemoveButton_16 .Group3770_16 .Group3768_16 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_15 .RemoveButton_16 .Group3770_16 .Group3768_16 .Ellipse3_16 {
+	border-radius: 50%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_15 .RemoveButton_16 .Group3770_16 .Group3768_16 .tipsclose_32 {
+	position: absolute;
+	left: 4.78271484375px;
+	top: 4.3477783203125px;
+	width: 20.869565963745117px;
+	height: 20.8695068359375px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_15 .RemoveButton_16 .Group3770_16 .Group3768_16 .tipsclose_32 .Vector_47 {
+	visibility: hidden;
+	position: absolute;
+	left: 3.671152353286743px;
+	top: 3.671142578125px;
+	width: 64.81811768467006%;
+	height: 64.81811854026894%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_15 .RemoveButton_16 .Group3770_16 .tipsclose_33 {
+	width: 21.30434799194336px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .RemoveMenu_1 .RemoveButtonRow_7 .RemoveItem_15 .RemoveButton_16 .Group3770_16 .tipsclose_33 .Vector_48 {
+	width: 64.81812173634648%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .Line1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	width: 315.0253601074219px;
+	height: 0px;
+	border: 5px solid rgba(36.00000165402889,46.000001057982445,66.00000366568565,1);
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .MenuTitle_1 {
+	font-weight: 400;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_4 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_4 .AddItem_12 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_4 .AddItem_12 .SelectionAdderButton_12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_4 .AddItem_12 .SelectionAdderButton_12 .Button_14 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_4 .AddItem_12 .SelectionAdderButton_12 .Button_14 .Vector_49 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_4 .AddItem_12 .SelectionAdderButton_12 .Button_14 .ButtonText_14 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_4 .AddItem_13 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_4 .AddItem_13 .SelectionAdderButton_13 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_4 .AddItem_13 .SelectionAdderButton_13 .Button_15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_4 .AddItem_13 .SelectionAdderButton_13 .Button_15 .Vector_50 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_4 .AddItem_13 .SelectionAdderButton_13 .Button_15 .ButtonText_15 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3773_1 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3773_1 .AddItem_14 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3773_1 .AddItem_14 .SelectionAdderButton_14 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3773_1 .AddItem_14 .SelectionAdderButton_14 .Button_16 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3773_1 .AddItem_14 .SelectionAdderButton_14 .Button_16 .Vector_51 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3773_1 .AddItem_14 .SelectionAdderButton_14 .Button_16 .ButtonText_16 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3773_1 .AddItem_15 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3773_1 .AddItem_15 .SelectionAdderButton_15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3773_1 .AddItem_15 .SelectionAdderButton_15 .Button_17 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3773_1 .AddItem_15 .SelectionAdderButton_15 .Button_17 .Vector_52 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3773_1 .AddItem_15 .SelectionAdderButton_15 .Button_17 .ButtonText_17 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3774_1 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3774_1 .AddItem_16 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3774_1 .AddItem_16 .SelectionAdderButton_16 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3774_1 .AddItem_16 .SelectionAdderButton_16 .Button_18 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3774_1 .AddItem_16 .SelectionAdderButton_16 .Button_18 .Vector_53 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3774_1 .AddItem_16 .SelectionAdderButton_16 .Button_18 .ButtonText_18 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3774_1 .AddItem_17 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3774_1 .AddItem_17 .SelectionAdderButton_17 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3774_1 .AddItem_17 .SelectionAdderButton_17 .Button_19 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3774_1 .AddItem_17 .SelectionAdderButton_17 .Button_19 .Vector_54 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3774_1 .AddItem_17 .SelectionAdderButton_17 .Button_19 .ButtonText_19 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_5 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_5 .AddItem_18 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_5 .AddItem_18 .SelectionAdderButton_18 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_5 .AddItem_18 .SelectionAdderButton_18 .Button_20 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_5 .AddItem_18 .SelectionAdderButton_18 .Button_20 .Vector_55 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_5 .AddItem_18 .SelectionAdderButton_18 .Button_20 .ButtonText_20 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_5 .AddItem_19 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_5 .AddItem_19 .SelectionAdderButton_19 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_5 .AddItem_19 .SelectionAdderButton_19 .Button_21 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_5 .AddItem_19 .SelectionAdderButton_19 .Button_21 .Vector_56 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3772_5 .AddItem_19 .SelectionAdderButton_19 .Button_21 .ButtonText_21 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3775_1 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3775_1 .AddItem_20 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3775_1 .AddItem_20 .SelectionAdderButton_20 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3775_1 .AddItem_20 .SelectionAdderButton_20 .Button_22 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3775_1 .AddItem_20 .SelectionAdderButton_20 .Button_22 .Vector_57 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3775_1 .AddItem_20 .SelectionAdderButton_20 .Button_22 .ButtonText_22 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3775_1 .AddItem_21 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3775_1 .AddItem_21 .SelectionAdderButton_21 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3775_1 .AddItem_21 .SelectionAdderButton_21 .Button_23 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3775_1 .AddItem_21 .SelectionAdderButton_21 .Button_23 .Vector_58 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3775_1 .AddItem_21 .SelectionAdderButton_21 .Button_23 .ButtonText_23 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3776_1 {
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3776_1 .AddItem_22 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3776_1 .AddItem_22 .SelectionAdderButton_22 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3776_1 .AddItem_22 .SelectionAdderButton_22 .Button_24 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3776_1 .AddItem_22 .SelectionAdderButton_22 .Button_24 .Vector_59 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3776_1 .AddItem_22 .SelectionAdderButton_22 .Button_24 .ButtonText_24 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3776_1 .AddItem_23 {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3776_1 .AddItem_23 .SelectionAdderButton_23 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3776_1 .AddItem_23 .SelectionAdderButton_23 .Button_25 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(59,201,201,1.00);
+	border-radius: 60px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3776_1 .AddItem_23 .SelectionAdderButton_23 .Button_25 .Vector_60 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 15px;
+	height: 15px;
+}
+.ButtonsandAdders_ButtonsandAdders .SectionAdder .AddMenu_1 .Frame3772_3 .Frame3776_1 .AddItem_23 .SelectionAdderButton_23 .Button_25 .ButtonText_25 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 108px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(34,36,39,1.00);
+	font-family: Baloo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22.399999618530273px;
+}
+.ButtonsandAdders_ButtonsandAdders .EditButton {
+	position: absolute;
+	left: 587.4000000000001px;
+	top: 392.70000000000005px;
+	width: 100.10000000000001px;
+	height: 36.300000000000004px;
+}
+.ButtonsandAdders_ButtonsandAdders .EditButton .Button_26 {
+	width: 100%;
+	height: 100%;
+	border-radius: 66px;
+}
+.ButtonsandAdders_ButtonsandAdders .EditButton .Button_26 .generalpen {
+	position: relative;
+	flex: none;
+	margin-right: 13.200000000000001px;
+	width: 22px;
+	height: 22px;
+}
+.ButtonsandAdders_ButtonsandAdders .EditButton .Button_26 .generalpen .Vector_61 {
+	width: 79.29672241210938%;
+	height: 79.296875%;
+}
+.ButtonsandAdders_ButtonsandAdders .EditButton .Button_26 .Edit {
+	width: 44px;
+	height: 34.1px;
+	font-size: 19.8px;
+	font-weight: 400;
+	line-height: 31.165200805664064px;
+}

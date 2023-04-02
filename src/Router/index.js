@@ -1,0 +1,255 @@
+import React from 'react';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import HomePage from '../Components/index';
+import IPhone14ProMax1 from '../Components/iPhone14ProMax1';
+import IPhone14ProMax8 from '../Components/iPhone14ProMax8';
+import IPhone14ProMax7 from '../Components/iPhone14ProMax7';
+import IPhone14ProMax4 from '../Components/iPhone14ProMax4';
+import IPhone14ProMax5 from '../Components/iPhone14ProMax5';
+import IPhone14ProMax6 from '../Components/iPhone14ProMax6';
+import IPhone14ProMax2 from '../Components/iPhone14ProMax2';
+import IPhone14ProMax3 from '../Components/iPhone14ProMax3';
+import SpinHomePage from '../Components/SpinHomePage';
+import SpinHomePage_1 from '../Components/SpinHomePage_1';
+import SpinHomePage_2 from '../Components/SpinHomePage_2';
+import Login from '../Components/Login';
+import CreateSpinner from '../Components/CreateSpinner';
+import CreateSpinner_1 from '../Components/CreateSpinner_1';
+import CreateSpinner_2 from '../Components/CreateSpinner_2';
+import CreateSpinner_3 from '../Components/CreateSpinner_3';
+import CreateSpinner_4 from '../Components/CreateSpinner_4';
+import SpinHomePage_3 from '../Components/SpinHomePage_3';
+import SpinHomePage_4 from '../Components/SpinHomePage_4';
+import SpinHomePage_5 from '../Components/SpinHomePage_5';
+import SpinHomePage_6 from '../Components/SpinHomePage_6';
+import Resturantsadd9 from '../Components/Resturantsadd9';
+import Resturantsadd10 from '../Components/Resturantsadd10';
+import DietaryPrefs1Removed from '../Components/DietaryPrefs1Removed';
+import DietaryPrefs1Removed_1 from '../Components/DietaryPrefs1Removed_1';
+import DietaryPrefs1Removed_2 from '../Components/DietaryPrefs1Removed_2';
+import NameSpinner from '../Components/NameSpinner';
+import NameSpinner_1 from '../Components/NameSpinner_1';
+import NameSpinner_2 from '../Components/NameSpinner_2';
+import NameSpinner_3 from '../Components/NameSpinner_3';
+import NameSpinner_4 from '../Components/NameSpinner_4';
+import DietaryPrefs from '../Components/DietaryPrefs';
+import DietaryPrefs1added from '../Components/DietaryPrefs1added';
+import DietaryPrefs2added from '../Components/DietaryPrefs2added';
+import DietaryPrefs3added from '../Components/DietaryPrefs3added';
+import DietaryPrefs4added from '../Components/DietaryPrefs4added';
+import AddFriends from '../Components/AddFriends';
+import AddFriends_1 from '../Components/AddFriends_1';
+import AddFriends_2 from '../Components/AddFriends_2';
+import DietaryPrefs1Removed_3 from '../Components/DietaryPrefs1Removed_3';
+import Resturants from '../Components/Resturants';
+import Resturantsadd1 from '../Components/Resturantsadd1';
+import Resturantsadd2 from '../Components/Resturantsadd2';
+import Resturantsadd3 from '../Components/Resturantsadd3';
+import Resturantsadd4 from '../Components/Resturantsadd4';
+import Resturantsadd5 from '../Components/Resturantsadd5';
+import Resturantsadd6 from '../Components/Resturantsadd6';
+import Resturantsadd7 from '../Components/Resturantsadd7';
+import Resturantsadd8 from '../Components/Resturantsadd8';
+import SpinHomePage_7 from '../Components/SpinHomePage_7';
+import SpinHomePage_8 from '../Components/SpinHomePage_8';
+import SpinHomePage_9 from '../Components/SpinHomePage_9';
+import SpinHomePage_10 from '../Components/SpinHomePage_10';
+import SpinHomePage_11 from '../Components/SpinHomePage_11';
+import SpinHomePage_12 from '../Components/SpinHomePage_12';
+import SpinHomePage_13 from '../Components/SpinHomePage_13';
+import SpinHomePage_14 from '../Components/SpinHomePage_14';
+import DietaryPrefs5added from '../Components/DietaryPrefs5added';
+import Colorpallete from '../Components/Colorpallete';
+import TaskOrientedButtons from '../Components/TaskOrientedButtons';
+import SpinnerStuffs from '../Components/SpinnerStuffs';
+import NavigationTools from '../Components/NavigationTools';
+import ButtonsandAdders from '../Components/ButtonsandAdders';
+import OtherThings from '../Components/OtherThings';
+import Interactivebuttonhome from '../Components/interactivebuttonhome';
+import Falsetruefalsefalse from '../Components/falsetruefalsefalse';
+import False from '../Components/false';
+import Interactivebuttonsearch from '../Components/interactivebuttonsearch';
+import Generaluser from '../Components/generaluser';
+import Footer from '../Components/Footer';
+import SpinButton from '../Components/SpinButton';
+import NavigationBar from '../Components/NavigationBar';
+import SpinnerBackground from '../Components/SpinnerBackground';
+import Spinnerdivision from '../Components/spinnerdivision';
+import SpinnerDefault from '../Components/SpinnerDefault';
+import Generalpen from '../Components/generalpen';
+import EditButton from '../Components/EditButton';
+import SpinnerTitle from '../Components/SpinnerTitle';
+import Generalmenu from '../Components/generalmenu';
+import SelectionAdderButton from '../Components/SelectionAdderButton';
+import Tipsexclamationcircle from '../Components/tipsexclamationcircle';
+import Interactivebuttonsearch_1 from '../Components/interactivebuttonsearch_1';
+import SearchBar from '../Components/SearchBar';
+import Tipsclose from '../Components/tipsclose';
+import CancelButton from '../Components/CancelButton';
+import Tipsplus from '../Components/tipsplus';
+import False_1 from '../Components/false_1';
+import Directionarrowright from '../Components/directionarrowright';
+import True from '../Components/true';
+import Interactivebuttonheartfill from '../Components/interactivebuttonheartfill';
+import Tipsclose_1 from '../Components/tipsclose_1';
+import Directiondown from '../Components/directiondown';
+import Header2Default from '../Components/Header2Default';
+import StatusIconsVariant6 from '../Components/StatusIconsVariant6';
+import DropdownMenu from '../Components/DropdownMenu';
+import SpinnerHeader from '../Components/SpinnerHeader';
+import Property1Default from '../Components/Property1Default';
+import Property1Variant2 from '../Components/Property1Variant2';
+import PrimaryButton from '../Components/PrimaryButton';
+import BlankFrame from '../Components/BlankFrame';
+import SecondaryButton from '../Components/SecondaryButton';
+import Header2Header2 from '../Components/Header2Header2';
+import RemoveButton from '../Components/RemoveButton';
+import RemoveItem from '../Components/RemoveItem';
+import RemoveMenu from '../Components/RemoveMenu';
+import AddItem from '../Components/AddItem';
+import AddMenu from '../Components/AddMenu';
+import SectionAdder from '../Components/SectionAdder';
+import WarningPopup from '../Components/WarningPopup';
+import Primarycolor from '../Components/Primarycolor';
+import Secondarycolor from '../Components/Secondarycolor';
+import DestructiveButton from '../Components/DestructiveButton';
+import Property1Default_1 from '../Components/Property1Default_1';
+import Property1DisabledButton2 from '../Components/Property1DisabledButton2';
+import MenuBar from '../Components/MenuBar';
+import Property1Default_2 from '../Components/Property1Default_2';
+import Property1SomeConflicts from '../Components/Property1SomeConflicts';
+import Property1HighConflicts from '../Components/Property1HighConflicts';
+import Property1CompletelyConflicted from '../Components/Property1CompletelyConflicted';
+import Property1Unavaliable from '../Components/Property1Unavaliable';
+import BlankFramewithNav from '../Components/BlankFramewithNav';
+const RouterDOM = () => {
+	return (
+		<Router>
+			<Switch>
+				<Route exact path="/"><HomePage /></Route>
+				<Route exact path="/iphone14promax1"><IPhone14ProMax1 /></Route>
+				<Route exact path="/iphone14promax8"><IPhone14ProMax8 /></Route>
+				<Route exact path="/iphone14promax7"><IPhone14ProMax7 /></Route>
+				<Route exact path="/iphone14promax4"><IPhone14ProMax4 /></Route>
+				<Route exact path="/iphone14promax5"><IPhone14ProMax5 /></Route>
+				<Route exact path="/iphone14promax6"><IPhone14ProMax6 /></Route>
+				<Route exact path="/iphone14promax2"><IPhone14ProMax2 /></Route>
+				<Route exact path="/iphone14promax3"><IPhone14ProMax3 /></Route>
+				<Route exact path="/spinhomepage"><SpinHomePage /></Route>
+				<Route exact path="/spinhomepage_1"><SpinHomePage_1 /></Route>
+				<Route exact path="/spinhomepage_2"><SpinHomePage_2 /></Route>
+				<Route exact path="/login"><Login /></Route>
+				<Route exact path="/createspinner"><CreateSpinner /></Route>
+				<Route exact path="/createspinner_1"><CreateSpinner_1 /></Route>
+				<Route exact path="/createspinner_2"><CreateSpinner_2 /></Route>
+				<Route exact path="/createspinner_3"><CreateSpinner_3 /></Route>
+				<Route exact path="/createspinner_4"><CreateSpinner_4 /></Route>
+				<Route exact path="/spinhomepage_3"><SpinHomePage_3 /></Route>
+				<Route exact path="/spinhomepage_4"><SpinHomePage_4 /></Route>
+				<Route exact path="/spinhomepage_5"><SpinHomePage_5 /></Route>
+				<Route exact path="/spinhomepage_6"><SpinHomePage_6 /></Route>
+				<Route exact path="/resturantsadd9"><Resturantsadd9 /></Route>
+				<Route exact path="/resturantsadd10"><Resturantsadd10 /></Route>
+				<Route exact path="/dietaryprefs1removed"><DietaryPrefs1Removed /></Route>
+				<Route exact path="/dietaryprefs1removed_1"><DietaryPrefs1Removed_1 /></Route>
+				<Route exact path="/dietaryprefs1removed_2"><DietaryPrefs1Removed_2 /></Route>
+				<Route exact path="/namespinner"><NameSpinner /></Route>
+				<Route exact path="/namespinner_1"><NameSpinner_1 /></Route>
+				<Route exact path="/namespinner_2"><NameSpinner_2 /></Route>
+				<Route exact path="/namespinner_3"><NameSpinner_3 /></Route>
+				<Route exact path="/namespinner_4"><NameSpinner_4 /></Route>
+				<Route exact path="/dietaryprefs"><DietaryPrefs /></Route>
+				<Route exact path="/dietaryprefs1added"><DietaryPrefs1added /></Route>
+				<Route exact path="/dietaryprefs2added"><DietaryPrefs2added /></Route>
+				<Route exact path="/dietaryprefs3added"><DietaryPrefs3added /></Route>
+				<Route exact path="/dietaryprefs4added"><DietaryPrefs4added /></Route>
+				<Route exact path="/addfriends"><AddFriends /></Route>
+				<Route exact path="/addfriends_1"><AddFriends_1 /></Route>
+				<Route exact path="/addfriends_2"><AddFriends_2 /></Route>
+				<Route exact path="/dietaryprefs1removed_3"><DietaryPrefs1Removed_3 /></Route>
+				<Route exact path="/resturants"><Resturants /></Route>
+				<Route exact path="/resturantsadd1"><Resturantsadd1 /></Route>
+				<Route exact path="/resturantsadd2"><Resturantsadd2 /></Route>
+				<Route exact path="/resturantsadd3"><Resturantsadd3 /></Route>
+				<Route exact path="/resturantsadd4"><Resturantsadd4 /></Route>
+				<Route exact path="/resturantsadd5"><Resturantsadd5 /></Route>
+				<Route exact path="/resturantsadd6"><Resturantsadd6 /></Route>
+				<Route exact path="/resturantsadd7"><Resturantsadd7 /></Route>
+				<Route exact path="/resturantsadd8"><Resturantsadd8 /></Route>
+				<Route exact path="/spinhomepage_7"><SpinHomePage_7 /></Route>
+				<Route exact path="/spinhomepage_8"><SpinHomePage_8 /></Route>
+				<Route exact path="/spinhomepage_9"><SpinHomePage_9 /></Route>
+				<Route exact path="/spinhomepage_10"><SpinHomePage_10 /></Route>
+				<Route exact path="/spinhomepage_11"><SpinHomePage_11 /></Route>
+				<Route exact path="/spinhomepage_12"><SpinHomePage_12 /></Route>
+				<Route exact path="/spinhomepage_13"><SpinHomePage_13 /></Route>
+				<Route exact path="/spinhomepage_14"><SpinHomePage_14 /></Route>
+				<Route exact path="/dietaryprefs5added"><DietaryPrefs5added /></Route>
+				<Route exact path="/colorpallete"><Colorpallete /></Route>
+				<Route exact path="/taskorientedbuttons"><TaskOrientedButtons /></Route>
+				<Route exact path="/spinnerstuffs"><SpinnerStuffs /></Route>
+				<Route exact path="/navigationtools"><NavigationTools /></Route>
+				<Route exact path="/buttonsandadders"><ButtonsandAdders /></Route>
+				<Route exact path="/otherthings"><OtherThings /></Route>
+				<Route exact path="/interactivebuttonhome"><Interactivebuttonhome /></Route>
+				<Route exact path="/falsetruefalsefalse"><Falsetruefalsefalse /></Route>
+				<Route exact path="/false"><False /></Route>
+				<Route exact path="/interactivebuttonsearch"><Interactivebuttonsearch /></Route>
+				<Route exact path="/generaluser"><Generaluser /></Route>
+				<Route exact path="/footer"><Footer /></Route>
+				<Route exact path="/spinbutton"><SpinButton /></Route>
+				<Route exact path="/navigationbar"><NavigationBar /></Route>
+				<Route exact path="/spinnerbackground"><SpinnerBackground /></Route>
+				<Route exact path="/spinnerdivision"><Spinnerdivision /></Route>
+				<Route exact path="/spinnerdefault"><SpinnerDefault /></Route>
+				<Route exact path="/generalpen"><Generalpen /></Route>
+				<Route exact path="/editbutton"><EditButton /></Route>
+				<Route exact path="/spinnertitle"><SpinnerTitle /></Route>
+				<Route exact path="/generalmenu"><Generalmenu /></Route>
+				<Route exact path="/selectionadderbutton"><SelectionAdderButton /></Route>
+				<Route exact path="/tipsexclamationcircle"><Tipsexclamationcircle /></Route>
+				<Route exact path="/interactivebuttonsearch_1"><Interactivebuttonsearch_1 /></Route>
+				<Route exact path="/searchbar"><SearchBar /></Route>
+				<Route exact path="/tipsclose"><Tipsclose /></Route>
+				<Route exact path="/cancelbutton"><CancelButton /></Route>
+				<Route exact path="/tipsplus"><Tipsplus /></Route>
+				<Route exact path="/false_1"><False_1 /></Route>
+				<Route exact path="/directionarrowright"><Directionarrowright /></Route>
+				<Route exact path="/true"><True /></Route>
+				<Route exact path="/interactivebuttonheartfill"><Interactivebuttonheartfill /></Route>
+				<Route exact path="/tipsclose_1"><Tipsclose_1 /></Route>
+				<Route exact path="/directiondown"><Directiondown /></Route>
+				<Route exact path="/header2default"><Header2Default /></Route>
+				<Route exact path="/statusiconsvariant6"><StatusIconsVariant6 /></Route>
+				<Route exact path="/dropdownmenu"><DropdownMenu /></Route>
+				<Route exact path="/spinnerheader"><SpinnerHeader /></Route>
+				<Route exact path="/property1default"><Property1Default /></Route>
+				<Route exact path="/property1variant2"><Property1Variant2 /></Route>
+				<Route exact path="/primarybutton"><PrimaryButton /></Route>
+				<Route exact path="/blankframe"><BlankFrame /></Route>
+				<Route exact path="/secondarybutton"><SecondaryButton /></Route>
+				<Route exact path="/header2header2"><Header2Header2 /></Route>
+				<Route exact path="/removebutton"><RemoveButton /></Route>
+				<Route exact path="/removeitem"><RemoveItem /></Route>
+				<Route exact path="/removemenu"><RemoveMenu /></Route>
+				<Route exact path="/additem"><AddItem /></Route>
+				<Route exact path="/addmenu"><AddMenu /></Route>
+				<Route exact path="/sectionadder"><SectionAdder /></Route>
+				<Route exact path="/warningpopup"><WarningPopup /></Route>
+				<Route exact path="/primarycolor"><Primarycolor /></Route>
+				<Route exact path="/secondarycolor"><Secondarycolor /></Route>
+				<Route exact path="/destructivebutton"><DestructiveButton /></Route>
+				<Route exact path="/property1default_1"><Property1Default_1 /></Route>
+				<Route exact path="/property1disabledbutton2"><Property1DisabledButton2 /></Route>
+				<Route exact path="/menubar"><MenuBar /></Route>
+				<Route exact path="/property1default_2"><Property1Default_2 /></Route>
+				<Route exact path="/property1someconflicts"><Property1SomeConflicts /></Route>
+				<Route exact path="/property1highconflicts"><Property1HighConflicts /></Route>
+				<Route exact path="/property1completelyconflicted"><Property1CompletelyConflicted /></Route>
+				<Route exact path="/property1unavaliable"><Property1Unavaliable /></Route>
+				<Route exact path="/blankframewithnav"><BlankFramewithNav /></Route>
+			</Switch>
+		</Router>
+	);
+}
+export default RouterDOM;

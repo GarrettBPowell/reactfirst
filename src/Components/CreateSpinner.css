@@ -1,0 +1,58 @@
+
+.CreateSpinner_CreateSpinner {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+}
+.CreateSpinner_CreateSpinner .CreateSpinner_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.5px;
+	height: 3122.2000000000003px;
+}
+.CreateSpinner_CreateSpinner .CreateSpinner_1 .Header {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.5px;
+	height: 268px;
+}
+.CreateSpinner_CreateSpinner .CreateSpinner_1 .Header .generalmenu {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 33.5px;
+	width: 107.2px;
+	height: 107.2px;
+}
+.CreateSpinner_CreateSpinner .CreateSpinner_1 .Header .generalmenu .Vector {
+	position: absolute;
+	left: 11.166649627685548px;
+	top: 17.866700744628908px;
+	width: 79.16665077209473%;
+	height: 66.66669845581055%;
+}
+.CreateSpinner_CreateSpinner .SecondaryButton {
+	position: absolute;
+	left: 221.1px;
+	top: 1430.45px;
+	width: 998.3000000000001px;
+	height: 261.3px;
+}
+.CreateSpinner_CreateSpinner .SecondaryButton .Button {
+	width: 944.7px;
+	height: 207.70000000000002px;
+	border-radius: 100.5px;
+}
+.CreateSpinner_CreateSpinner .SecondaryButton .Button .ButtonText {
+	height: 157.45000000000002px;
+	align-self: stretch;
+	font-size: 80.4px;
+	font-weight: 400;
+	line-height: 126.54960327148437px;
+}

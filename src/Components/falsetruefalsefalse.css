@@ -1,0 +1,13 @@
+
+.falsetruefalsefalse_falsetruefalsefalse {
+	width: 8px;
+	height: 8px;
+	display: flex;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-left: 4px;
+	box-sizing: border-box;
+	background: rgba(245,63,63,1.00);
+	border-radius: 100px;
+}
