@@ -1,0 +1,87 @@
+.cancelButton {
+  position: absolute;
+  top: 145px;
+  left: 807px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-indianred-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-indianred-100);
+  box-sizing: border-box;
+  width: 105px;
+  height: 35px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs-5) var(--padding-base);
+  align-items: center;
+  justify-content: center;
+}
+.tipsplusIcon {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: none;
+}
+.button {
+  position: absolute;
+  top: 145px;
+  left: 965px;
+  border-radius: var(--br-xl);
+  background-color: var(--main-button);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 105px;
+  height: 35px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs-5) var(--padding-base);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.button1,
+.editButton,
+.forwardButton {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--main-button);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.editButton,
+.forwardButton {
+  top: 64px;
+  left: 992px;
+}
+.editButton {
+  top: 357px;
+  left: 534px;
+  width: 91px;
+  height: 33px;
+}
+.buttonsAndAdders {
+  position: relative;
+  background-color: var(--color-slategray);
+  width: 100%;
+  height: 770px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--button-text-size);
+  color: var(--color-gray-100);
+  font-family: var(--large-button-text);
+}

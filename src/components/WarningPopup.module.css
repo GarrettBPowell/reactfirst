@@ -1,0 +1,11 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-darkslategray-100);
+  border: 4px solid var(--app-header);
+  box-sizing: border-box;
+  width: 399px;
+  height: 563px;
+}

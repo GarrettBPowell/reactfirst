@@ -1,0 +1,40 @@
+.statusIconsvariant6 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  flex-shrink: 0;
+}
+.workBuds {
+  position: relative;
+}
+.spinnerTitle {
+  width: 249px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 0 4.6285400390625px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+}
+.dropdownMenuIcon {
+  position: relative;
+  width: 31px;
+  height: 31.14px;
+  flex-shrink: 0;
+}
+.spinnerHeader {
+  position: absolute;
+  top: calc(50% - 197px);
+  left: calc(50% + 175.5px);
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-5xs);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--large-button-text);
+}

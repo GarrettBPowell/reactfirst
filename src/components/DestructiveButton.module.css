@@ -1,0 +1,9 @@
+.buttonText {
+  align-self: stretch;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 237px;
+  flex-shrink: 0;
+}

@@ -1,0 +1,116 @@
+.primaryButton {
+  position: absolute;
+  top: 18px;
+  left: 209px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  align-items: center;
+  justify-content: flex-start;
+}
+.secondaryButton {
+  position: absolute;
+  top: 18px;
+  left: 601px;
+  width: 298px;
+  height: 78px;
+}
+.button,
+.primaryButton1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.button {
+  border-radius: var(--br-11xl);
+  background-color: var(--destructive-button);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 282px;
+  height: 62px;
+  flex-shrink: 0;
+  overflow: hidden;
+  padding: var(--padding-5xs-5) var(--padding-base);
+  box-sizing: border-box;
+  justify-content: center;
+}
+.primaryButton1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: var(--padding-5xs);
+  justify-content: flex-start;
+}
+.destructiveButton {
+  position: absolute;
+  top: 18px;
+  left: 981px;
+  width: 298px;
+  height: 78px;
+}
+.buttonText {
+  align-self: stretch;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 192px;
+  flex-shrink: 0;
+}
+.button1,
+.property1default {
+  position: absolute;
+  width: 282px;
+  height: 62px;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--disabled-1);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs-5) var(--padding-base);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.property1default {
+  top: 20px;
+  left: 20px;
+}
+.button2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.disabledButton1,
+.property1disabledButton2 {
+  position: absolute;
+  top: 132px;
+  left: 20px;
+  width: 282px;
+  height: 62px;
+}
+.disabledButton1 {
+  top: 184px;
+  left: 583px;
+  border-radius: 5px;
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  width: 322px;
+  height: 329px;
+  overflow: hidden;
+  font-size: var(--button-text-size);
+}
+.taskOrientedButtons {
+  position: relative;
+  background-color: var(--color-slategray);
+  width: 100%;
+  height: 657px;
+  text-align: center;
+  font-size: var(--large-button-text-size);
+  color: var(--color-gray-100);
+  font-family: var(--large-button-text);
+}

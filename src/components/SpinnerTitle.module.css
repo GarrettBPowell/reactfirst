@@ -1,0 +1,19 @@
+.workBuds {
+  position: relative;
+}
+.spinnerTitle {
+  position: absolute;
+  top: 74px;
+  left: 637px;
+  width: 249px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 4.6285400390625px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--large-button-text);
+}

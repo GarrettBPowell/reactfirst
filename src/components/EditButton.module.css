@@ -1,0 +1,39 @@
+.generalpenIcon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+.button,
+.edit {
+  display: flex;
+  align-items: center;
+}
+.edit {
+  position: relative;
+  width: 40px;
+  height: 31px;
+  flex-shrink: 0;
+}
+.button {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--edit-yellow);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-5xs);
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-xs);
+  text-align: left;
+  font-size: var(--button-text-size);
+  color: var(--color-black);
+  font-family: var(--large-button-text);
+}

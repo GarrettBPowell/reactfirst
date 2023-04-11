@@ -1,0 +1,351 @@
+.navMenuChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+}
+.interactiveButtonhomeIcon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  overflow: hidden;
+  z-index: 0;
+}
+.label {
+  position: relative;
+  z-index: 1;
+}
+.placeholder {
+  position: relative;
+  width: 0;
+  height: 0;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.badge {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--danger-6);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.badgeWrapper {
+  position: absolute;
+  margin: 0 !important;
+  top: 6px;
+  left: calc(50% + 10.2px);
+  width: 0;
+  height: 0;
+  flex-shrink: 0;
+  display: none;
+  z-index: 2;
+}
+.home {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-base);
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-9xs);
+}
+.friendsChild,
+.profileChild {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.friendsChild {
+  width: 26px;
+  height: 21px;
+}
+.button,
+.tipsplusIcon {
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.tipsplusIcon {
+  position: relative;
+  width: 17px;
+  height: 17px;
+}
+.button {
+  border-radius: var(--br-81xl);
+  background-color: var(--primary-6);
+  border: 1px solid var(--primary-6);
+  box-sizing: border-box;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm-5);
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.badgeWrapper4 {
+  position: absolute;
+  margin: 0 !important;
+  top: 6px;
+  left: calc(50% + 10.2px);
+  width: 0;
+  height: 0;
+  flex-shrink: 0;
+  display: none;
+  z-index: 1;
+}
+.label3 {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 18px;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.add,
+.navMenu1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.add {
+  flex: 1;
+  height: 55px;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 var(--padding-base) var(--padding-31xl);
+  box-sizing: border-box;
+  align-items: center;
+  position: relative;
+  gap: var(--gap-9xs);
+}
+.navMenu1 {
+  position: absolute;
+  height: 88.87%;
+  width: 99.53%;
+  top: 9.57%;
+  right: 0.47%;
+  bottom: 1.56%;
+  left: 0;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.footer,
+.frameChild,
+.frameItem,
+.navMenu {
+  position: absolute;
+  height: 67.63%;
+  width: 100%;
+  top: 32.37%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.footer,
+.frameChild,
+.frameItem {
+  height: 82.31%;
+  top: 9.23%;
+  bottom: 8.46%;
+}
+.frameChild,
+.frameItem {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameItem {
+  height: 50%;
+  width: 50%;
+  top: 24.26%;
+  right: 25%;
+  bottom: 25.74%;
+  left: 25%;
+}
+.spin {
+  position: absolute;
+  height: 31%;
+  width: 40%;
+  top: 34.36%;
+  left: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ellipseParent,
+.spinButtonChild {
+  position: absolute;
+  top: 12.31px;
+  left: 11.54px;
+  width: 76.92px;
+  height: 76.11px;
+}
+.spinButtonChild {
+  height: 123.1%;
+  width: 122.82%;
+  top: -11.53%;
+  right: -11.79%;
+  bottom: -11.57%;
+  left: -11.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.spinButton {
+  position: absolute;
+  height: 76.92%;
+  width: 23.26%;
+  top: 13.85%;
+  right: 38.6%;
+  bottom: 9.23%;
+  left: 38.14%;
+  color: var(--color-white);
+}
+.groupChild,
+.navigationBar {
+  position: absolute;
+  top: 345px;
+  left: 26px;
+  width: 430px;
+  height: 130px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #31838c;
+  width: 103px;
+  height: 41.4px;
+}
+.salads {
+  position: absolute;
+  height: 45.89%;
+  width: 88.35%;
+  top: 26.57%;
+  left: 5.83%;
+  line-height: 20px;
+  display: inline-block;
+}
+.groupItem,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 107px;
+  width: 103px;
+  height: 41.4px;
+}
+.groupItem {
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-paleturquoise-100);
+  width: 105px;
+  height: 41px;
+}
+.entres {
+  position: absolute;
+  height: 46.34%;
+  width: 62.86%;
+  top: 26.83%;
+  left: 19.05%;
+  line-height: 20px;
+  display: inline-block;
+}
+.rectangleGroup,
+.sides {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 105px;
+  height: 41px;
+}
+.sides {
+  height: 46.34%;
+  width: 75.24%;
+  top: 25.72%;
+  left: 12.38%;
+  line-height: 20px;
+  display: inline-block;
+}
+.rectangleContainer,
+.rectangleDiv {
+  position: absolute;
+  top: 0.46px;
+  left: 320px;
+  width: 105px;
+  height: 41px;
+}
+.rectangleDiv {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-paleturquoise-100);
+  width: 106px;
+}
+.breakfast {
+  position: absolute;
+  height: 46.34%;
+  width: 66.98%;
+  top: 28.16%;
+  left: 16.04%;
+  line-height: 20px;
+  display: inline-block;
+}
+.groupDiv {
+  position: absolute;
+  top: 0.46px;
+  left: 212px;
+  width: 106px;
+  height: 41px;
+}
+.groupWrapper {
+  top: 0;
+  left: 0;
+}
+.groupWrapper,
+.menuBar,
+.menuBarInner {
+  position: absolute;
+  width: 425px;
+  height: 41.46px;
+}
+.menuBarInner {
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.menuBar {
+  top: 92px;
+  left: 535px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+}
+.navigationTools {
+  position: relative;
+  background-color: var(--color-slategray);
+  width: 100%;
+  height: 657px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--small-text-size);
+  color: var(--text-3);
+  font-family: var(--large-button-text);
+}

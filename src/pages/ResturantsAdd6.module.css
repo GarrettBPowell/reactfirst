@@ -1,0 +1,360 @@
+.generalmenuIcon {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+  display: none;
+}
+.header {
+  background-color: var(--app-header);
+  width: 430px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+}
+.add {
+  margin: 0;
+}
+.addRestaurants {
+  position: relative;
+  display: inline-block;
+  width: 430px;
+  height: 151px;
+  flex-shrink: 0;
+}
+.interactiveButtonsearchIcon {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.button,
+.search {
+  display: flex;
+  align-items: center;
+}
+.search {
+  position: relative;
+  width: 300px;
+  height: 36px;
+  flex-shrink: 0;
+}
+.button {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--search-bar);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-5xs);
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-5xs);
+}
+.searchBar {
+  position: relative;
+  width: 384px;
+  height: 69px;
+  flex-shrink: 0;
+}
+.removeText {
+  position: relative;
+  line-height: 140%;
+}
+.removeButtonIcon {
+  position: relative;
+  width: 38px;
+  height: 38px;
+  flex-shrink: 0;
+}
+.removeButtonRow,
+.removeItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.removeItem {
+  width: 134px;
+  flex-shrink: 0;
+  padding: 0 var(--padding-5xs);
+  box-sizing: border-box;
+  justify-content: flex-end;
+  gap: var(--gap-5xs);
+}
+.removeButtonRow {
+  width: 311px;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.removeButtonIcon6 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.removeItem7 {
+  width: 134px;
+  flex-shrink: 0;
+  display: none;
+  flex-direction: row;
+  padding: 0 var(--padding-5xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--gap-5xs);
+}
+.removeButtonRow3,
+.removeMenu {
+  align-items: center;
+  justify-content: center;
+}
+.removeButtonRow3 {
+  width: 311px;
+  display: none;
+  flex-direction: row;
+  gap: var(--gap-base);
+}
+.removeMenu {
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-xs);
+  gap: var(--gap-5xs);
+}
+.sectionAdderChild {
+  position: relative;
+  border-top: 5px solid var(--dark-text);
+  box-sizing: border-box;
+  width: 320.03px;
+  height: 5px;
+  flex-shrink: 0;
+}
+.menuTitle {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 300px;
+}
+.vectorIcon {
+  position: relative;
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.button1,
+.buttonText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonText {
+  position: relative;
+  line-height: 140%;
+  width: 108px;
+  height: 22px;
+  flex-shrink: 0;
+}
+.button1 {
+  border-radius: var(--br-41xl);
+  background-color: var(--main-button);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+}
+.button1,
+.selectionAdderButton {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.addItem {
+  position: relative;
+  width: 150px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.addItemGroup,
+.addItemParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.addItemGroup {
+  justify-content: center;
+}
+.addItem4 {
+  position: relative;
+  width: 150px;
+  height: 30px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.button8,
+.buttonText7 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonText7 {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 140%;
+  font-family: var(--large-button-text);
+  color: var(--color-gray-100);
+  text-align: center;
+  width: 108px;
+  height: 22px;
+  flex-shrink: 0;
+}
+.button8 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs);
+  background-color: var(--main-button);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+}
+.addItem7 {
+  position: relative;
+  width: 150px;
+  height: 30px;
+  flex-shrink: 0;
+  display: none;
+}
+.addItemParent1,
+.frameDiv {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.addItemParent1 {
+  justify-content: flex-start;
+}
+.selectionAdderButton11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.frameParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+}
+.sectionAdder {
+  flex-direction: column;
+  gap: var(--gap-xs);
+  font-size: var(--button-text-size);
+  color: var(--color-white);
+}
+.button13,
+.buttonText12,
+.sectionAdder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonText12 {
+  align-self: stretch;
+  position: relative;
+  width: 239px;
+  flex-shrink: 0;
+}
+.button13 {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  border-radius: var(--br-11xl);
+  background-color: var(--secondary-button);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 282px;
+  height: 62px;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-5xs-5) var(--padding-base);
+  box-sizing: border-box;
+}
+.secondaryButton {
+  position: relative;
+  width: 298px;
+  height: 78px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--large-button-text-size);
+}
+.searchBarParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+}
+.blankFrame,
+.headerParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.headerParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+}
+.blankFrame {
+  background-color: var(--color-slategray);
+  width: 430px;
+  height: 932px;
+  overflow: hidden;
+}
+.resturantsAdd6 {
+  position: relative;
+  width: 100%;
+  height: 932px;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--large-button-text);
+}
