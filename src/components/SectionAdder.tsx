@@ -1,6 +1,5 @@
 import { FunctionComponent } from "react";
 import styles from "./SectionAdder.module.css";
-
 const SectionAdder: FunctionComponent = () => {
   return (
     <div className={styles.sectionAdder}>

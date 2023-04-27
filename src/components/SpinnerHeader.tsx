@@ -1,6 +1,5 @@
 import { FunctionComponent } from "react";
 import styles from "./SpinnerHeader.module.css";
-
 const SpinnerHeader: FunctionComponent = () => {
   return (
     <div className={styles.spinnerHeader}>

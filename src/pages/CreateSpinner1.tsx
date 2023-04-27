@@ -1,10 +1,13 @@
 import { FunctionComponent, useCallback } from "react";
+import { useNavigate } from "react-router-dom";
+import CreateSoloSpinnerContainer from "../components/CreateSoloSpinnerContainer";
 import styles from "./CreateSpinner1.module.css";
-
 const CreateSpinner1: FunctionComponent = () => {
+  const navigate = useNavigate();
+
   const onSecondaryButtonContainer1Click = useCallback(() => {
-    // Please sync "Name Spinner" to the project
-  }, []);
+    navigate("/name-spinner");
+  }, [navigate]);
 
   return (
     <div className={styles.createSpinner}>
@@ -17,21 +20,11 @@ const CreateSpinner1: FunctionComponent = () => {
           />
         </div>
       </div>
-      <div className={styles.secondaryButtonParent}>
-        <div className={styles.secondaryButton}>
-          <div className={styles.button}>
-            <div className={styles.buttonText}>Create Solo Spinner</div>
-          </div>
-        </div>
-        <div
-          className={styles.secondaryButton1}
-          onClick={onSecondaryButtonContainer1Click}
-        >
-          <div className={styles.button}>
-            <div className={styles.buttonText}>Create Group Spinner</div>
-          </div>
-        </div>
-      </div>
+      <CreateSoloSpinnerContainer
+        buttonText="Create  Solo Spinner"
+        buttonText1="Create  Group Spinner"
+        onSecondaryButtonContainer1Click={onSecondaryButtonContainer1Click}
+      />
       <div className={styles.navigationBar}>
         <div className={styles.footer}>
           <div className={styles.navMenu}>
@@ -90,7 +83,7 @@ const CreateSpinner1: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.add}>
-                <div className={styles.button2}>
+                <div className={styles.button}>
                   <img
                     className={styles.tipsplusIcon}
                     alt=""
@@ -113,7 +106,7 @@ const CreateSpinner1: FunctionComponent = () => {
             <img className={styles.frameItem} alt="" src="/ellipse-13.svg" />
             <div className={styles.spin}>SPIN</div>
           </div>
-          <img className={styles.spinButtonChild} alt="" src="/group-123.svg" />
+          <img className={styles.spinButtonChild} alt="" src="/group-122.svg" />
         </div>
       </div>
     </div>

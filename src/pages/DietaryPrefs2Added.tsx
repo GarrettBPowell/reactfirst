@@ -1,7 +1,6 @@
 import { FunctionComponent, useCallback } from "react";
 import { useNavigate } from "react-router-dom";
 import styles from "./DietaryPrefs2Added.module.css";
-
 const DietaryPrefs2Added: FunctionComponent = () => {
   const navigate = useNavigate();
 
@@ -17,7 +16,7 @@ const DietaryPrefs2Added: FunctionComponent = () => {
             <img
               className={styles.generalmenuIcon}
               alt=""
-              src="/generalmenu3.svg"
+              src="/generalmenu32.svg"
             />
           </div>
           <div className={styles.dietaryPreferences}>Dietary Preferences</div>
@@ -40,7 +39,7 @@ const DietaryPrefs2Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                   <div className={styles.removeItem}>
@@ -48,7 +47,7 @@ const DietaryPrefs2Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                 </div>
@@ -58,7 +57,7 @@ const DietaryPrefs2Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon2}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                   <div className={styles.removeItem}>
@@ -66,7 +65,7 @@ const DietaryPrefs2Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon2}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                 </div>
@@ -76,7 +75,7 @@ const DietaryPrefs2Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon2}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                   <div className={styles.removeItem}>
@@ -84,7 +83,7 @@ const DietaryPrefs2Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon2}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                 </div>
@@ -94,7 +93,7 @@ const DietaryPrefs2Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon2}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                   <div className={styles.removeItem7}>
@@ -102,7 +101,7 @@ const DietaryPrefs2Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon2}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                 </div>

@@ -1,6 +1,5 @@
 import { FunctionComponent } from "react";
 import styles from "./ColorPallete.module.css";
-
 const ColorPallete: FunctionComponent = () => {
   return (
     <div className={styles.colorPallete}>

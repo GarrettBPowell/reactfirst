@@ -1,6 +1,5 @@
 import { FunctionComponent } from "react";
 import styles from "./AddMenu.module.css";
-
 const AddMenu: FunctionComponent = () => {
   return (
     <div className={styles.addMenu}>

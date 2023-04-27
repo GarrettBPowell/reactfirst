@@ -8,7 +8,6 @@ import RemoveMenu from "../components/RemoveMenu";
 import SectionAdder from "../components/SectionAdder";
 import EditButton from "../components/EditButton";
 import styles from "./ButtonsAndAdders.module.css";
-
 const ButtonsAndAdders: FunctionComponent = () => {
   return (
     <div className={styles.buttonsAndAdders}>

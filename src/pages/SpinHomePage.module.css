@@ -75,18 +75,6 @@
   width: 26px;
   height: 21px;
 }
-.friends {
-  flex: 1;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  padding: var(--padding-7xs) var(--padding-base);
-  align-items: center;
-  justify-content: flex-start;
-  position: relative;
-  gap: var(--gap-9xs);
-  cursor: pointer;
-}
 .button,
 .tipsplusIcon {
   flex-shrink: 0;
@@ -263,7 +251,6 @@
   width: 25px;
   height: 25px;
   flex-shrink: 0;
-  display: none;
 }
 .workBuds {
   position: relative;
@@ -299,9 +286,9 @@
 .spinwheelbackgroundIcon {
   position: absolute;
   top: 0;
-  left: 3px;
-  width: 437px;
-  height: 475px;
+  left: 22px;
+  width: 430px;
+  height: 437px;
 }
 .spincenterChild,
 .spincenterInner,
@@ -349,96 +336,97 @@
 }
 .spincenter {
   position: absolute;
-  height: 23.9%;
-  width: 22.5%;
-  top: 35.88%;
-  right: 38.81%;
-  bottom: 40.21%;
-  left: 38.69%;
+  height: 25.98%;
+  width: 20.7%;
+  top: 34.66%;
+  right: 39.71%;
+  bottom: 39.36%;
+  left: 39.6%;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
-.pf {
-  margin: 0;
-}
-.pfChangsTxtContainer {
-  line-break: anywhere;
-  width: 100%;
-}
 .chipotle,
-.mooyah,
-.pfChangs,
-.redRobin,
-.rollShack,
-.theFlippingEgg {
+.pfChangs {
   position: absolute;
-  height: 13.14%;
-  width: 23.31%;
-  top: 5.85%;
-  left: 60.73%;
   display: flex;
   align-items: flex-end;
-  transform: rotate(29.89deg);
+  justify-content: center;
+}
+.pfChangs {
+  height: 13.14%;
+  width: 23.31%;
+  top: -62.02%;
+  left: 5.73%;
+  transform: rotate(-60.11deg);
   transform-origin: 0 0;
 }
-.chipotle,
-.mooyah,
-.redRobin,
-.rollShack,
-.theFlippingEgg {
+.chipotle {
   height: 13.22%;
   width: 24.01%;
-  top: 37.09%;
-  left: 100%;
-  justify-content: center;
-  transform: rotate(90deg);
+  top: -102.14%;
+  left: 36.31%;
 }
-.mooyah,
-.redRobin,
-.rollShack,
-.theFlippingEgg {
+.mooyah {
+  position: absolute;
   height: 13.14%;
   width: 26.46%;
-  top: 86.53%;
-  left: 87.62%;
-  transform: rotate(150.11deg);
+  top: -89.5%;
+  left: 84.72%;
+  transform: rotate(60.11deg);
+  transform-origin: 0 0;
 }
-.redRobin,
+.mooyah,
 .rollShack,
 .theFlippingEgg {
-  width: 26.56%;
-  top: 99.96%;
-  left: 34.2%;
-  transform: rotate(-150.11deg);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
 }
-.redRobin,
+.rollShack {
+  position: absolute;
+  height: 13.14%;
+  width: 26.56%;
+  top: -34.93%;
+  left: 97.87%;
+  transform: rotate(119.89deg);
+  transform-origin: 0 0;
+}
 .theFlippingEgg {
   height: 13.22%;
   width: 59.74%;
-  top: 82.56%;
-  left: 0;
-  transform: rotate(-90deg);
+  top: 0;
+  left: 80.83%;
+  transform: rotate(-180deg);
+}
+.redRobin,
+.resturants,
+.theFlippingEgg {
+  position: absolute;
+  transform-origin: 0 0;
 }
 .redRobin {
   height: 13.14%;
   width: 24.89%;
-  top: 12.67%;
-  left: 11.18%;
-  transform: rotate(-29.89deg);
+  top: -11.42%;
+  left: 12.41%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  transform: rotate(-119.89deg);
 }
 .resturants {
-  position: absolute;
-  height: 68.9%;
-  width: 76.49%;
-  top: 15.25%;
-  right: 10.92%;
-  bottom: 15.85%;
-  left: 12.6%;
+  height: 74.89%;
+  width: 70.37%;
+  top: 87.91%;
+  right: 13.31%;
+  bottom: -62.8%;
+  left: 16.33%;
+  transform: rotate(-90deg);
   font-size: var(--button-text-size);
 }
 .spinner2 {
   position: relative;
-  width: 437px;
-  height: 475px;
+  width: 475px;
+  height: 437px;
   flex-shrink: 0;
 }
 .spinner1 {
@@ -452,31 +440,24 @@
   align-items: center;
   justify-content: center;
 }
-.edit,
 .generalpenIcon {
   position: relative;
   width: 20px;
   height: 20px;
   flex-shrink: 0;
 }
+.button1,
 .edit {
-  font-size: var(--button-text-size);
-  font-family: var(--large-button-text);
-  color: var(--color-black);
-  text-align: left;
   display: flex;
   align-items: center;
+}
+.edit {
+  position: relative;
   width: 40px;
   height: 31px;
-}
-.button1,
-.editButton {
-  cursor: pointer;
-  border: 0;
+  flex-shrink: 0;
 }
 .button1 {
-  padding: var(--padding-3xs) var(--padding-5xs);
-  background-color: var(--edit-yellow);
   position: absolute;
   height: 100%;
   width: 100%;
@@ -485,22 +466,23 @@
   bottom: 0;
   left: 0;
   border-radius: var(--br-41xl);
+  background-color: var(--edit-yellow);
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   overflow: hidden;
-  display: flex;
   flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-5xs);
   box-sizing: border-box;
-  align-items: center;
   justify-content: center;
   gap: var(--gap-xs);
 }
 .editButton {
-  padding: 0;
-  background-color: transparent;
   position: relative;
   width: 91px;
   height: 33px;
   flex-shrink: 0;
+  text-align: left;
+  font-size: var(--button-text-size);
+  color: var(--color-black);
 }
 .spinner,
 .spinnerAndEdit {

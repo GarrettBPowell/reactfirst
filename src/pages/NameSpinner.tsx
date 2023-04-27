@@ -1,10 +1,16 @@
 import { FunctionComponent, useCallback } from "react";
+import { useNavigate } from "react-router-dom";
 import styles from "./NameSpinner.module.css";
-
 const NameSpinner: FunctionComponent = () => {
-  const onAddItemContainerClick = useCallback(() => {
-    // Please sync "Name Spinner" to the project
-  }, []);
+  const navigate = useNavigate();
+
+  const onSpinButtonContainerClick = useCallback(() => {
+    navigate("/spin-home-page2");
+  }, [navigate]);
+
+  const onSecondaryButtonContainerClick = useCallback(() => {
+    navigate("/spin-home-page3");
+  }, [navigate]);
 
   return (
     <div className={styles.nameSpinner}>
@@ -97,21 +103,20 @@ const NameSpinner: FunctionComponent = () => {
             </div>
           </div>
         </div>
-        <div className={styles.spinButton}>
+        <div className={styles.spinButton} onClick={onSpinButtonContainerClick}>
           <div className={styles.ellipseParent}>
             <img className={styles.frameChild} alt="" src="/ellipse-21.svg" />
             <img className={styles.frameItem} alt="" src="/ellipse-121.svg" />
             <div className={styles.spin}>SPIN</div>
           </div>
-          <img
-            className={styles.spinButtonChild}
-            alt=""
-            src="/group-1221.svg"
-          />
+          <img className={styles.spinButtonChild} alt="" src="/group-121.svg" />
         </div>
       </div>
-      <div className={styles.workSpinner}>Work Spinner</div>
-      <div className={styles.secondaryButton}>
+      <div className={styles.workBuds}>Work Buds</div>
+      <div
+        className={styles.secondaryButton}
+        onClick={onSecondaryButtonContainerClick}
+      >
         <div className={styles.button1}>
           <div className={styles.buttonText}>Continue</div>
         </div>
@@ -148,46 +153,28 @@ const NameSpinner: FunctionComponent = () => {
               </div>
             </div>
             <div className={styles.removeButtonRow1}>
-              <div className={styles.removeItem2}>
+              <div className={styles.removeItem}>
                 <div className={styles.removeText}>Soy</div>
                 <img
-                  className={styles.removeButtonIcon}
+                  className={styles.removeButtonIcon2}
                   alt=""
                   src="/remove-button4.svg"
                 />
               </div>
-              <div className={styles.removeItem2}>
+              <div className={styles.removeItem}>
                 <div className={styles.removeText}>Shellfish</div>
                 <img
-                  className={styles.removeButtonIcon}
+                  className={styles.removeButtonIcon2}
                   alt=""
                   src="/remove-button4.svg"
                 />
               </div>
             </div>
             <div className={styles.removeButtonRow1}>
-              <div className={styles.removeItem2}>
+              <div className={styles.removeItem}>
                 <div className={styles.removeText}>An Item</div>
                 <img
-                  className={styles.removeButtonIcon}
-                  alt=""
-                  src="/remove-button4.svg"
-                />
-              </div>
-              <div className={styles.removeItem2}>
-                <div className={styles.removeText}>An Item</div>
-                <img
-                  className={styles.removeButtonIcon}
-                  alt=""
-                  src="/remove-button4.svg"
-                />
-              </div>
-            </div>
-            <div className={styles.removeButtonRow1}>
-              <div className={styles.removeItem2}>
-                <div className={styles.removeText}>An Item</div>
-                <img
-                  className={styles.removeButtonIcon}
+                  className={styles.removeButtonIcon2}
                   alt=""
                   src="/remove-button4.svg"
                 />
@@ -195,7 +182,25 @@ const NameSpinner: FunctionComponent = () => {
               <div className={styles.removeItem}>
                 <div className={styles.removeText}>An Item</div>
                 <img
-                  className={styles.removeButtonIcon}
+                  className={styles.removeButtonIcon2}
+                  alt=""
+                  src="/remove-button4.svg"
+                />
+              </div>
+            </div>
+            <div className={styles.removeButtonRow1}>
+              <div className={styles.removeItem}>
+                <div className={styles.removeText}>An Item</div>
+                <img
+                  className={styles.removeButtonIcon2}
+                  alt=""
+                  src="/remove-button4.svg"
+                />
+              </div>
+              <div className={styles.removeItem7}>
+                <div className={styles.removeText}>An Item</div>
+                <img
+                  className={styles.removeButtonIcon2}
                   alt=""
                   src="/remove-button4.svg"
                 />
@@ -207,10 +212,7 @@ const NameSpinner: FunctionComponent = () => {
             <div className={styles.menuTitle}>Add Friends to Spinner</div>
             <div className={styles.frameParent}>
               <div className={styles.addItemParent}>
-                <div
-                  className={styles.addItem}
-                  onClick={onAddItemContainerClick}
-                >
+                <div className={styles.addItem}>
                   <div className={styles.selectionAdderButton}>
                     <div className={styles.button3}>
                       <img
@@ -218,7 +220,7 @@ const NameSpinner: FunctionComponent = () => {
                         alt=""
                         src="/vector.svg"
                       />
-                      <div className={styles.buttonText1}>Stacy</div>
+                      <div className={styles.buttonText1}>John</div>
                     </div>
                   </div>
                 </div>
@@ -236,7 +238,7 @@ const NameSpinner: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.addItemGroup}>
-                <div className={styles.addItem1}>
+                <div className={styles.addItem}>
                   <div className={styles.selectionAdderButton}>
                     <div className={styles.button3}>
                       <img
@@ -248,7 +250,7 @@ const NameSpinner: FunctionComponent = () => {
                     </div>
                   </div>
                 </div>
-                <div className={styles.addItem1}>
+                <div className={styles.addItem}>
                   <div className={styles.selectionAdderButton}>
                     <div className={styles.button3}>
                       <img
@@ -262,7 +264,7 @@ const NameSpinner: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.addItemContainer}>
-                <div className={styles.addItem1}>
+                <div className={styles.addItem}>
                   <div className={styles.selectionAdderButton4}>
                     <div className={styles.button3}>
                       <img
@@ -274,7 +276,7 @@ const NameSpinner: FunctionComponent = () => {
                     </div>
                   </div>
                 </div>
-                <div className={styles.addItem5}>
+                <div className={styles.addItem1}>
                   <div className={styles.selectionAdderButton}>
                     <div className={styles.button3}>
                       <img
@@ -288,7 +290,7 @@ const NameSpinner: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.addItemGroup}>
-                <div className={styles.addItem1}>
+                <div className={styles.addItem}>
                   <div className={styles.selectionAdderButton}>
                     <div className={styles.button3}>
                       <img
@@ -300,7 +302,7 @@ const NameSpinner: FunctionComponent = () => {
                     </div>
                   </div>
                 </div>
-                <div className={styles.addItem5}>
+                <div className={styles.addItem1}>
                   <div className={styles.selectionAdderButton}>
                     <button className={styles.button10}>
                       <img
@@ -313,8 +315,8 @@ const NameSpinner: FunctionComponent = () => {
                   </div>
                 </div>
               </div>
-              <div className={styles.addItemParent1}>
-                <div className={styles.addItem1}>
+              <div className={styles.addItemParent}>
+                <div className={styles.addItem}>
                   <div className={styles.selectionAdderButton}>
                     <div className={styles.button3}>
                       <img
@@ -326,7 +328,7 @@ const NameSpinner: FunctionComponent = () => {
                     </div>
                   </div>
                 </div>
-                <div className={styles.addItem5}>
+                <div className={styles.addItem1}>
                   <div className={styles.selectionAdderButton}>
                     <div className={styles.button3}>
                       <img
@@ -339,8 +341,8 @@ const NameSpinner: FunctionComponent = () => {
                   </div>
                 </div>
               </div>
-              <div className={styles.addItemParent1}>
-                <div className={styles.addItem1}>
+              <div className={styles.addItemParent}>
+                <div className={styles.addItem}>
                   <div className={styles.selectionAdderButton}>
                     <div className={styles.button3}>
                       <img
@@ -352,7 +354,7 @@ const NameSpinner: FunctionComponent = () => {
                     </div>
                   </div>
                 </div>
-                <div className={styles.addItem1}>
+                <div className={styles.addItem}>
                   <div className={styles.selectionAdderButton}>
                     <div className={styles.button3}>
                       <img

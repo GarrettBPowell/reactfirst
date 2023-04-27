@@ -5,7 +5,6 @@ import PrimaryButton from "../components/PrimaryButton";
 import DestructiveButton from "../components/DestructiveButton";
 import DisabledButton1 from "../components/DisabledButton1";
 import styles from "./TaskOrientedButtons.module.css";
-
 const TaskOrientedButtons: FunctionComponent = () => {
   return (
     <div className={styles.taskOrientedButtons}>

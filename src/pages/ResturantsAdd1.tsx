@@ -1,7 +1,6 @@
 import { FunctionComponent, useCallback } from "react";
 import { useNavigate } from "react-router-dom";
 import styles from "./ResturantsAdd1.module.css";
-
 const ResturantsAdd1: FunctionComponent = () => {
   const navigate = useNavigate();
 
@@ -17,7 +16,7 @@ const ResturantsAdd1: FunctionComponent = () => {
             <img
               className={styles.generalmenuIcon}
               alt=""
-              src="/generalmenu2.svg"
+              src="/generalmenu22.svg"
             />
           </div>
           <div className={styles.addRestaurants}>
@@ -43,7 +42,7 @@ const ResturantsAdd1: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon}
                       alt=""
-                      src="/remove-button.svg"
+                      src="/remove-button1.svg"
                     />
                   </div>
                   <div className={styles.removeItem1}>
@@ -51,7 +50,7 @@ const ResturantsAdd1: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon1}
                       alt=""
-                      src="/remove-button.svg"
+                      src="/remove-button1.svg"
                     />
                   </div>
                 </div>
@@ -61,7 +60,7 @@ const ResturantsAdd1: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon1}
                       alt=""
-                      src="/remove-button.svg"
+                      src="/remove-button1.svg"
                     />
                   </div>
                   <div className={styles.removeItem}>
@@ -69,7 +68,7 @@ const ResturantsAdd1: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon1}
                       alt=""
-                      src="/remove-button.svg"
+                      src="/remove-button1.svg"
                     />
                   </div>
                 </div>
@@ -79,7 +78,7 @@ const ResturantsAdd1: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon1}
                       alt=""
-                      src="/remove-button.svg"
+                      src="/remove-button1.svg"
                     />
                   </div>
                   <div className={styles.removeItem}>
@@ -87,7 +86,7 @@ const ResturantsAdd1: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon1}
                       alt=""
-                      src="/remove-button.svg"
+                      src="/remove-button1.svg"
                     />
                   </div>
                 </div>
@@ -97,7 +96,7 @@ const ResturantsAdd1: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon1}
                       alt=""
-                      src="/remove-button.svg"
+                      src="/remove-button1.svg"
                     />
                   </div>
                   <div className={styles.removeItem1}>
@@ -105,7 +104,7 @@ const ResturantsAdd1: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon1}
                       alt=""
-                      src="/remove-button.svg"
+                      src="/remove-button1.svg"
                     />
                   </div>
                 </div>

@@ -1,7 +1,6 @@
 import { FunctionComponent, useCallback } from "react";
 import { useNavigate } from "react-router-dom";
 import styles from "./DietaryPrefs.module.css";
-
 const DietaryPrefs: FunctionComponent = () => {
   const navigate = useNavigate();
 

@@ -1,6 +1,5 @@
 import { FunctionComponent } from "react";
 import styles from "./NextButton.module.css";
-
 const NextButton: FunctionComponent = () => {
   return (
     <img

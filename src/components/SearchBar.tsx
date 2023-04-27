@@ -1,6 +1,5 @@
 import { FunctionComponent } from "react";
 import styles from "./SearchBar.module.css";
-
 const SearchBar: FunctionComponent = () => {
   return (
     <div className={styles.searchBar}>

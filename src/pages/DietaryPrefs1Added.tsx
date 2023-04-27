@@ -1,7 +1,6 @@
 import { FunctionComponent, useCallback } from "react";
 import { useNavigate } from "react-router-dom";
 import styles from "./DietaryPrefs1Added.module.css";
-
 const DietaryPrefs1Added: FunctionComponent = () => {
   const navigate = useNavigate();
 
@@ -17,7 +16,7 @@ const DietaryPrefs1Added: FunctionComponent = () => {
             <img
               className={styles.generalmenuIcon}
               alt=""
-              src="/generalmenu3.svg"
+              src="/generalmenu32.svg"
             />
           </div>
           <div className={styles.dietaryPreferences}>Dietary Preferences</div>
@@ -48,7 +47,7 @@ const DietaryPrefs1Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon1}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                 </div>
@@ -66,7 +65,7 @@ const DietaryPrefs1Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon1}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                 </div>
@@ -84,7 +83,7 @@ const DietaryPrefs1Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon1}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                 </div>
@@ -102,7 +101,7 @@ const DietaryPrefs1Added: FunctionComponent = () => {
                     <img
                       className={styles.removeButtonIcon1}
                       alt=""
-                      src="/remove-button1.svg"
+                      src="/remove-button12.svg"
                     />
                   </div>
                 </div>

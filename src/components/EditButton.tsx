@@ -1,6 +1,5 @@
 import { FunctionComponent } from "react";
 import styles from "./EditButton.module.css";
-
 const EditButton: FunctionComponent = () => {
   return (
     <div className={styles.button}>

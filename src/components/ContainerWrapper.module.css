@@ -1,0 +1,138 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-darkslategray-100);
+  border: 4px solid var(--app-header);
+  box-sizing: border-box;
+  width: 399px;
+  height: 563px;
+}
+.button,
+.buttonText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonText {
+  align-self: stretch;
+  position: relative;
+  width: 239px;
+  flex-shrink: 0;
+}
+.button {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  border-radius: var(--br-11xl);
+  background-color: var(--edit-yellow);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 282px;
+  height: 62px;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-5xs-5) var(--padding-base);
+  box-sizing: border-box;
+}
+.secondaryButton {
+  position: absolute;
+  top: calc(50% + 173.5px);
+  left: calc(50% - 148.5px);
+  width: 298px;
+  height: 78px;
+}
+.menuTitle,
+.removeText {
+  position: relative;
+}
+.removeText {
+  line-height: 140%;
+}
+.removeButtonIcon {
+  position: relative;
+  width: 38px;
+  height: 38px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.removeItem {
+  width: 134px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-5xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--gap-5xs);
+}
+.removeButtonIcon1 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.removeItem1 {
+  width: 134px;
+  flex-shrink: 0;
+  display: none;
+  flex-direction: row;
+  padding: 0 var(--padding-5xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--gap-5xs);
+}
+.removeButtonRow,
+.removeButtonRow1 {
+  width: 311px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.removeButtonRow {
+  display: flex;
+}
+.removeButtonRow1 {
+  display: none;
+}
+.remove,
+.removeMenu,
+.topOfFrame {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.removeMenu {
+  padding: 0 var(--padding-xs);
+  align-items: center;
+  justify-content: center;
+}
+.remove,
+.topOfFrame {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topOfFrame {
+  position: absolute;
+  top: 14px;
+  left: 4px;
+  align-items: center;
+  gap: var(--gap-13xl);
+  text-align: left;
+  font-size: var(--button-text-size);
+  color: var(--color-white);
+}
+.contents {
+  position: absolute;
+  top: 133px;
+  left: 15px;
+  width: 399px;
+  height: 563px;
+  text-align: center;
+  font-size: var(--large-button-text-size);
+  color: var(--color-gray-100);
+  font-family: var(--large-button-text);
+}

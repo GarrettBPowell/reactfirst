@@ -1,7 +1,6 @@
 import { FunctionComponent, useCallback } from "react";
 import { useNavigate } from "react-router-dom";
 import styles from "./DietaryPrefs5Added.module.css";
-
 const DietaryPrefs5Added: FunctionComponent = () => {
   const navigate = useNavigate();
 
@@ -17,7 +16,7 @@ const DietaryPrefs5Added: FunctionComponent = () => {
             <img
               className={styles.generalmenuIcon}
               alt=""
-              src="/generalmenu4.svg"
+              src="/generalmenu41.svg"
             />
           </div>
           <div className={styles.dietaryPreferences}>Dietary Preferences</div>

@@ -1,7 +1,6 @@
 import { FunctionComponent } from "react";
 import SearchBar from "../components/SearchBar";
 import styles from "./NavigationTools.module.css";
-
 const NavigationTools: FunctionComponent = () => {
   return (
     <div className={styles.navigationTools}>
@@ -54,7 +53,7 @@ const NavigationTools: FunctionComponent = () => {
                 <img
                   className={styles.friendsChild}
                   alt=""
-                  src="/group-211.svg"
+                  src="/group-2111.svg"
                 />
                 <div className={styles.label}>Friends</div>
                 <div className={styles.badgeWrapper}>
@@ -84,10 +83,14 @@ const NavigationTools: FunctionComponent = () => {
         <div className={styles.spinButton}>
           <div className={styles.ellipseParent}>
             <img className={styles.frameChild} alt="" src="/ellipse-22.svg" />
-            <img className={styles.frameItem} alt="" src="/ellipse-14.svg" />
+            <img className={styles.frameItem} alt="" src="/ellipse-141.svg" />
             <div className={styles.spin}>SPIN</div>
           </div>
-          <img className={styles.spinButtonChild} alt="" src="/group-122.svg" />
+          <img
+            className={styles.spinButtonChild}
+            alt=""
+            src="/group-1221.svg"
+          />
         </div>
       </div>
       <div className={styles.menuBar}>

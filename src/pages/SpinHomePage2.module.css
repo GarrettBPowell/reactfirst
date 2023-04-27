@@ -251,7 +251,6 @@
   width: 25px;
   height: 25px;
   flex-shrink: 0;
-  display: none;
 }
 .workBuds {
   position: relative;
@@ -345,13 +344,6 @@
   left: 38.69%;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
-.pf {
-  margin: 0;
-}
-.pfChangsTxtContainer {
-  line-break: anywhere;
-  width: 100%;
-}
 .pfChangs {
   height: 13.14%;
   width: 23.31%;
@@ -359,6 +351,7 @@
   left: -60.73%;
   display: flex;
   align-items: flex-end;
+  justify-content: center;
   transform: rotate(-150.11deg);
 }
 .chipotle,

@@ -1,6 +1,5 @@
 import { FunctionComponent } from "react";
 import styles from "./SpinHomePage1.module.css";
-
 const SpinHomePage1: FunctionComponent = () => {
   return (
     <div className={styles.spinHomePage}>
@@ -13,7 +12,7 @@ const SpinHomePage1: FunctionComponent = () => {
                 <img
                   className={styles.interactiveButtonhomeIcon}
                   alt=""
-                  src="/interactivebuttonhome.svg"
+                  src="/interactivebuttonhome2.svg"
                 />
                 <div className={styles.label}>Home</div>
                 <div className={styles.badgeWrapper}>
@@ -26,7 +25,7 @@ const SpinHomePage1: FunctionComponent = () => {
                 <img
                   className={styles.profileChild}
                   alt=""
-                  src="/group-2.svg"
+                  src="/group-24.svg"
                 />
                 <div className={styles.label}>Profile</div>
                 <div className={styles.badgeWrapper}>
@@ -39,7 +38,7 @@ const SpinHomePage1: FunctionComponent = () => {
                 <img
                   className={styles.interactiveButtonhomeIcon}
                   alt=""
-                  src="/interactivebuttonsearch11.svg"
+                  src="/interactivebuttonsearch3.svg"
                 />
                 <div className={styles.label}>Search</div>
                 <div className={styles.badgeWrapper}>
@@ -52,7 +51,7 @@ const SpinHomePage1: FunctionComponent = () => {
                 <img
                   className={styles.friendsChild}
                   alt=""
-                  src="/group-21.svg"
+                  src="/group-2.svg"
                 />
                 <div className={styles.label}>Friends</div>
                 <div className={styles.badgeWrapper}>
@@ -66,7 +65,7 @@ const SpinHomePage1: FunctionComponent = () => {
                   <img
                     className={styles.tipsplusIcon}
                     alt=""
-                    src="/tipsplus.svg"
+                    src="/tipsplus22.svg"
                   />
                 </div>
                 <div className={styles.badgeWrapper4}>
@@ -81,7 +80,7 @@ const SpinHomePage1: FunctionComponent = () => {
         </div>
         <div className={styles.spinButton}>
           <div className={styles.ellipseParent}>
-            <img className={styles.frameChild} alt="" src="/ellipse-2.svg" />
+            <img className={styles.frameChild} alt="" src="/ellipse-21.svg" />
             <img className={styles.frameItem} alt="" src="/ellipse-1.svg" />
             <div className={styles.spin}>SPIN</div>
           </div>
@@ -89,11 +88,7 @@ const SpinHomePage1: FunctionComponent = () => {
         </div>
       </div>
       <div className={styles.header}>
-        <img
-          className={styles.generalmenuIcon}
-          alt=""
-          src="/generalmenu1.svg"
-        />
+        <img className={styles.generalmenuIcon} alt="" src="/generalmenu.svg" />
       </div>
       <div className={styles.spinner}>
         <div className={styles.spinnerHeader}>
@@ -103,12 +98,12 @@ const SpinHomePage1: FunctionComponent = () => {
             src="/status-iconsvariant6.svg"
           />
           <div className={styles.spinnerTitle}>
-            <div className={styles.workBuds}>1st Spinner</div>
+            <div className={styles.workBuds}>Work Buds</div>
           </div>
           <img
             className={styles.dropdownMenuIcon}
             alt=""
-            src="/dropdown-menu.svg"
+            src="/dropdown-menu11.svg"
           />
         </div>
         <div className={styles.spinnerAndEdit}>
@@ -138,16 +133,11 @@ const SpinHomePage1: FunctionComponent = () => {
                 <div className={styles.spin1}>SPIN</div>
               </div>
               <div className={styles.resturants}>
-                <div className={styles.pfChangs}>
-                  <span className={styles.pfChangsTxtContainer}>
-                    <p className={styles.pf}>PF</p>
-                    <p className={styles.pf}>Changs</p>
-                  </span>
-                </div>
+                <div className={styles.pfChangs}>Sonic</div>
                 <div className={styles.chipotle}>Chipotle</div>
                 <div className={styles.mooyah}>Mooyah</div>
                 <div className={styles.rollShack}>Roll Shack</div>
-                <div className={styles.theFlippingEgg}>Flipping Egg</div>
+                <div className={styles.theFlippingEgg}>Whataburger</div>
                 <div className={styles.redRobin}>Red Robin</div>
               </div>
             </div>

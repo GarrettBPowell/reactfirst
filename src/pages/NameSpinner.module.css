@@ -248,10 +248,11 @@
   right: 38.6%;
   bottom: 9.23%;
   left: 38.14%;
+  cursor: pointer;
   color: var(--color-white);
 }
 .navigationBar,
-.workSpinner {
+.workBuds {
   position: absolute;
   top: 813px;
   left: 0;
@@ -259,7 +260,7 @@
   height: 130px;
   color: var(--text-3);
 }
-.workSpinner {
+.workBuds {
   top: 92px;
   font-size: var(--font-size-29xl);
   color: var(--color-white);
@@ -283,7 +284,7 @@
   top: 8px;
   left: 8px;
   border-radius: var(--br-11xl);
-  background-color: var(--disabled-1);
+  background-color: var(--secondary-button);
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   width: 282px;
   height: 62px;
@@ -298,6 +299,7 @@
   left: 66px;
   width: 298px;
   height: 78px;
+  cursor: pointer;
   font-size: var(--large-button-text-size);
 }
 .interactiveButtonsearchIcon1 {
@@ -348,54 +350,62 @@
 }
 .removeButtonIcon {
   position: relative;
-  width: 30px;
-  height: 30px;
+  width: 38px;
+  height: 38px;
   flex-shrink: 0;
+}
+.removeButtonRow,
+.removeItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 .removeItem {
   width: 134px;
   flex-shrink: 0;
-  display: none;
-  flex-direction: row;
   padding: 0 var(--padding-5xs);
   box-sizing: border-box;
-  align-items: center;
   justify-content: flex-end;
   gap: var(--gap-5xs);
 }
-.removeButtonRow,
-.removeItem2 {
+.removeButtonRow {
   width: 311px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
   justify-content: center;
   gap: var(--gap-base);
 }
-.removeItem2 {
-  width: 134px;
+.removeButtonIcon2 {
+  position: relative;
+  width: 30px;
+  height: 30px;
   flex-shrink: 0;
-  padding: 0 var(--padding-5xs);
-  box-sizing: border-box;
-  justify-content: flex-end;
-  gap: var(--gap-5xs);
-}
-.removeButtonRow1,
-.removeMenu {
-  align-items: center;
-  justify-content: center;
 }
 .removeButtonRow1 {
   width: 311px;
   display: none;
   flex-direction: row;
+  align-items: center;
+  justify-content: center;
   gap: var(--gap-base);
+}
+.removeItem7,
+.removeMenu {
+  align-items: center;
+  gap: var(--gap-5xs);
+}
+.removeItem7 {
+  width: 134px;
+  flex-shrink: 0;
+  display: none;
+  flex-direction: row;
+  padding: 0 var(--padding-5xs);
+  box-sizing: border-box;
+  justify-content: flex-end;
 }
 .removeMenu {
   display: flex;
   flex-direction: column;
   padding: 0 var(--padding-xs);
-  gap: var(--gap-5xs);
+  justify-content: center;
 }
 .sectionAdderChild {
   position: relative;
@@ -449,9 +459,6 @@
   bottom: 0;
   left: 0;
 }
-.addItem {
-  cursor: pointer;
-}
 .addItem,
 .addItem1 {
   position: relative;
@@ -459,18 +466,18 @@
   height: 30px;
   flex-shrink: 0;
 }
+.addItem1 {
+  display: none;
+}
 .addItemGroup,
 .addItemParent {
+  display: none;
   flex-direction: row;
   align-items: center;
+  justify-content: flex-start;
   gap: var(--gap-base);
 }
-.addItemParent {
-  display: flex;
-  justify-content: flex-start;
-}
 .addItemGroup {
-  display: none;
   justify-content: center;
 }
 .selectionAdderButton4 {
@@ -481,13 +488,6 @@
   right: 0;
   bottom: 0;
   left: 0;
-  display: none;
-}
-.addItem5 {
-  position: relative;
-  width: 150px;
-  height: 30px;
-  flex-shrink: 0;
   display: none;
 }
 .addItemContainer,
@@ -511,10 +511,10 @@
   height: 22px;
   flex-shrink: 0;
 }
-.addItemParent1,
-.button10 {
-  flex-direction: row;
-  align-items: center;
+.button10,
+.frameParent {
+  justify-content: center;
+  gap: var(--gap-5xs);
 }
 .button10 {
   cursor: pointer;
@@ -531,18 +531,11 @@
   border-radius: var(--br-41xl);
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
+  flex-direction: row;
   box-sizing: border-box;
-  justify-content: center;
-  gap: var(--gap-5xs);
-}
-.addItemParent1 {
-  display: none;
-  justify-content: flex-start;
-  gap: var(--gap-base);
+  align-items: center;
 }
 .frameParent {
-  justify-content: center;
-  gap: var(--gap-5xs);
   text-align: center;
   font-size: var(--font-size-base);
   color: var(--color-gray-100);

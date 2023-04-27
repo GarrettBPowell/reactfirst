@@ -1,6 +1,5 @@
 import { FunctionComponent } from "react";
 import styles from "./RemoveMenu.module.css";
-
 const RemoveMenu: FunctionComponent = () => {
   return (
     <div className={styles.removeMenu}>

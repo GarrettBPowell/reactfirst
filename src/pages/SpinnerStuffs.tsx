@@ -3,7 +3,6 @@ import SpinnerTitle from "../components/SpinnerTitle";
 import DropdownMenuIcon from "../components/DropdownMenuIcon";
 import SpinnerHeader from "../components/SpinnerHeader";
 import styles from "./SpinnerStuffs.module.css";
-
 const SpinnerStuffs: FunctionComponent = () => {
   return (
     <div className={styles.spinnerStuffs}>
@@ -15,7 +14,7 @@ const SpinnerStuffs: FunctionComponent = () => {
           <img className={styles.frameItem} alt="" src="/ellipse-111.svg" />
           <div className={styles.spin}>SPIN</div>
         </div>
-        <img className={styles.spinButtonChild} alt="" src="/group-1211.svg" />
+        <img className={styles.spinButtonChild} alt="" src="/group-12111.svg" />
       </div>
       <SpinnerHeader />
     </div>
